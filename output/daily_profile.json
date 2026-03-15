@@ -1,0 +1,840 @@
+{
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "shares": 19,
+      "avg_price": 276.61,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "core tech",
+      "current_price": 250.1199951171875,
+      "score": 9.2,
+      "pnl_pct": -0.09576662045049894,
+      "pnl_value": -503.31009277343776,
+      "metrics": {
+        "symbol": "AAPL",
+        "price": 250.1199951171875,
+        "momentum_1m": -0.09212342970167876,
+        "volume_ratio": 0.828314937430196,
+        "macd_hist": -1.455731821937952,
+        "atr": 6.047857012067523,
+        "score": 9.2
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "蘋果推遲智慧家庭顯示器的發布，顯示AI產品仍在調整中。",
+        "long_term_view": "蘋果仍被視為未來十年中具備強大競爭力的股票之一，具備長期成長潛力。",
+        "risks": [
+          "智慧家庭產品發布延遲可能影響短期營收表現",
+          "人工智慧技術發展尚未成熟，存在不確定性"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
+          "summary": "This high-flying chip stock is poised for another big year.",
+          "published": "2026-03-15 10:00"
+        },
+        {
+          "title": "Warren Buffett returned 6,000,000% plus for investors over 60 years. Here are his 5 biggest wins and what to learn",
+          "summary": "The Oracle of Omaha just retired after six decades running Berkshire Hathaway — turning $9,800 into a $150 billion personal fortune that crushed the S&amp;P 500 by 130x.",
+          "published": "2026-03-15 09:45"
+        },
+        {
+          "title": "Apple (AAPL) Postpones Its Smart Home Display Release",
+          "summary": "Apple Inc. (NASDAQ:AAPL) earns a place on our list of the 13 unrivaled stocks of the next 10 years, though recent developments suggest the company’s artificial intelligence rollout is still evolving. According to TheFly’s report citing Bloomberg’s Mark Gurman’s comments on March 9, 2026, Apple Inc. (NASDAQ:AAPL) has decided to delay the release of its smart home […]",
+          "published": "2026-03-15 07:25"
+        }
+      ]
+    },
+    {
+      "symbol": "BND",
+      "shares": 34,
+      "avg_price": 74.51,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "bond ETF",
+      "current_price": 73.55000305175781,
+      "score": 11.15,
+      "pnl_pct": -0.01288413566289347,
+      "pnl_value": -32.63989624023455,
+      "metrics": {
+        "symbol": "BND",
+        "price": 73.55000305175781,
+        "momentum_1m": -0.01036055767260761,
+        "volume_ratio": 0.7675918977395515,
+        "macd_hist": -0.15055776589421616,
+        "atr": 0.272857666015625,
+        "score": 11.15
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "市場可能面臨2026年股市崩盤風險，BND作為防禦型ETF值得關注。",
+        "long_term_view": "BND可作為退休投資組合的穩健補充，幫助彌補社會安全福利不足。",
+        "risks": [
+          "2026年股市可能出現大幅波動",
+          "社會安全福利不足導致退休資金壓力"
+        ],
+        "action_label": "watch",
+        "confidence": 70
+      },
+      "news": [
+        {
+          "title": "2026 Stock Market Crash Coming? 3 Best ETFs to Protect You Now",
+          "summary": "History shows that midterm election years aren’t always great years for the S&amp;P 500. Are you properly protected against the full blow of a 2026 market crash? Probably not, but there are action steps you can take today to brace for the impact of a potential market collapse. Fortunately, there are safety-first exchange traded funds ... 2026 Stock Market Crash Coming? 3 Best ETFs to Protect You Now",
+          "published": "2026-02-24 19:36"
+        },
+        {
+          "title": "Can’t Live on $2k a Month in Social Security? Add These ETFs to Your Retirement Portfolio",
+          "summary": "A lot of people assume that once they retire, they’ll be able to manage their expenses on Social Security alone. But you may be surprised by how little those benefits amount to. For context, the average monthly Social Security benefit today is $2,071. If you have extremely low monthly expenses, you may be able to ... Can’t Live on $2k a Month in Social Security? Add These ETFs to Your Retirement Portfolio",
+          "published": "2026-02-01 12:26"
+        },
+        {
+          "title": "Over 50? 3 ETFs to Buy Now to Supplement Your Future Social Security",
+          "summary": "If you’re over 50, it’s probably time to start thinking seriously about retirement if you haven’t done so already. At this point, you may only have about another decade of work ahead of you — or maybe less, depending on your exact age. And it’s important to understand the role Social Security will play during ... Over 50? 3 ETFs to Buy Now to Supplement Your Future Social Security",
+          "published": "2026-01-31 13:30"
+        }
+      ]
+    },
+    {
+      "symbol": "SCHH",
+      "shares": 12,
+      "avg_price": 21.53,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "REIT ETF",
+      "current_price": 22.239999771118164,
+      "score": 16.92,
+      "pnl_pct": 0.032977230428154335,
+      "pnl_value": 8.519997253417955,
+      "metrics": {
+        "symbol": "SCHH",
+        "price": 22.239999771118164,
+        "momentum_1m": -0.009795161278817016,
+        "volume_ratio": 1.1509878551295003,
+        "macd_hist": -0.13606222765690934,
+        "atr": 0.33607142312186106,
+        "score": 16.92
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "隨著美國30年期房貸利率降至5.98%，SCHH短期內受惠於房地產估值提升。",
+        "long_term_view": "2026年大量商業房地產貸款到期，SCHH的長期表現將取決於再融資環境的穩定與否。",
+        "risks": [
+          "2026年高達1620億美元的商業房地產貸款到期帶來再融資風險",
+          "聯準會利率政策及10年期美債收益率波動可能影響房地產市場"
+        ],
+        "action_label": "watch",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "REIT ETFs in the Spotlight as U.S. Mortgage Rate Sinks Below 6%",
+          "summary": "REIT ETFs, like SCHH, are in focus after the 30-year mortgage rate dipped to 5.98%, boosting real estate valuations and dividend appeal.",
+          "published": "2026-03-02 13:49"
+        },
+        {
+          "title": "Three Companies Control Schwab’s US REIT Returns As Debt Maturity Cliff Threatens 2026 Returns",
+          "summary": "The Schwab U.S. REIT ETF (NYSEARCA:SCHH) has gained 1.6% year-to-date, but the real question isn’t past performance—it’s what comes next. With $162 billion in commercial real estate loans maturing in 2026, this fund’s trajectory depends entirely on whether the refinancing environment cooperates or collapses. The Macro Factor: Fed Rate Cuts and the 10-Year Treasury Real ... Three Companies Control Schwab’s US REIT Returns As Debt Maturity Cliff Threatens 2026 Returns",
+          "published": "2026-02-05 14:20"
+        },
+        {
+          "title": "Should You Buy CRED ETF Before The Fed Cuts Rates In 2026?",
+          "summary": "The Columbia Research Enhanced Real Estate ETF (NYSE:CRED) launched in April 2023 at exactly the wrong moment. Real estate had just entered a brutal bear market triggered by the Federal Reserve’s fastest rate hiking cycle in four decades. Since inception, CRED has delivered a negative 1.6% return while managing just $3.1 million in assets, creating ... Should You Buy CRED ETF Before The Fed Cuts Rates In 2026?",
+          "published": "2026-01-02 14:27"
+        }
+      ]
+    },
+    {
+      "symbol": "VOO",
+      "shares": 13,
+      "avg_price": 596.72,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "core market ETF",
+      "current_price": 609.0900268554688,
+      "score": 31.74,
+      "pnl_pct": 0.02073003562050664,
+      "pnl_value": 160.8103491210934,
+      "metrics": {
+        "symbol": "VOO",
+        "price": 609.0900268554688,
+        "momentum_1m": -0.04283798189096868,
+        "volume_ratio": 2.2157144140412615,
+        "macd_hist": -1.9716046659454074,
+        "atr": 9.32672119140625,
+        "score": 31.74
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "中東緊張局勢可能導致市場短期波動。",
+        "long_term_view": "VOO作為大型且資產規模龐大的ETF，適合長期持有以追求穩健成長。",
+        "risks": [
+          "中東地緣政治緊張導致市場波動",
+          "全球經濟不確定性影響股市表現"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Patience Pays: ETFs You Can Buy and Hold for the Long Run",
+          "summary": "Middle East tensions may keep markets volatile in the near term. Discover ETFs to buy and hold for long-term growth.",
+          "published": "2026-03-13 15:59"
+        },
+        {
+          "title": "South Korea's $350B U.S. Investment Pledge: ETFs That Could Gain",
+          "summary": "South Korea's $350B U.S. investment pledge could lift the country's export momentum while boosting key U.S. sectors. Here are some ETFs that may benefit.",
+          "published": "2026-03-12 15:45"
+        },
+        {
+          "title": "3 Things Every Vanguard S&P 500 ETF Investor Needs to Know Today",
+          "summary": "With $1.5 trillion in total assets, this is one of the largest investment vehicles on the face of the planet.",
+          "published": "2026-03-11 22:26"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "shares": 8,
+      "avg_price": 579.78,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "tech ETF",
+      "current_price": 593.719970703125,
+      "score": 11.8,
+      "pnl_pct": 0.024043552214848784,
+      "pnl_value": 111.51976562500022,
+      "metrics": {
+        "symbol": "QQQ",
+        "price": 593.719970703125,
+        "momentum_1m": -0.03162567094274137,
+        "volume_ratio": 0.8605494102831683,
+        "macd_hist": -0.729765713489241,
+        "atr": 10.955705915178571,
+        "score": 11.8
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "近期市場波動，ETF價格下跌但期貨表現回升，顯示短期不確定性存在。",
+        "long_term_view": "長期來看，結構性風險如油價飆升可能對市場造成重大影響，需持續關注宏觀經濟指標。",
+        "risks": [
+          "油價飆升至200美元引發結構性危機",
+          "經濟數據低於預期導致市場波動"
+        ],
+        "action_label": "watch",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "What Happens at $200 a Barrel?",
+          "summary": "A jump to $200 oil would represent more than a price increase; it would be a systemic shock that shifts the U.S. from a \"soft landing\" into a structural crisis.",
+          "published": "2026-03-13 21:01"
+        },
+        {
+          "title": "Exchange-Traded Funds Drop, US Equities Mixed After Midday",
+          "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV were lower. Actively trade",
+          "published": "2026-03-13 17:09"
+        },
+        {
+          "title": "Q4 GDP, Durable Goods Lower than Anticipated",
+          "summary": "Pre-market futures are up following the release of this data, bringing in a spring green a week ahead of the season's change.",
+          "published": "2026-03-13 14:35"
+        }
+      ]
+    },
+    {
+      "symbol": "XLV",
+      "shares": 36,
+      "avg_price": 137.89,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "healthcare ETF",
+      "current_price": 149.7899932861328,
+      "score": 13.16,
+      "pnl_pct": 0.08630062576062679,
+      "pnl_value": 428.39975830078174,
+      "metrics": {
+        "symbol": "XLV",
+        "price": 149.7899932861328,
+        "momentum_1m": -0.04134404296875,
+        "volume_ratio": 0.9737899336795416,
+        "macd_hist": -0.8275961062663106,
+        "atr": 2.5000010899135043,
+        "score": 13.16
+      },
+      "analysis": {
+        "sentiment": "消極",
+        "short_term_view": "近期醫療保健類股表現疲軟，股價有所下跌。",
+        "long_term_view": "醫療保健行業具備長期成長潛力，但短期波動需謹慎觀察。",
+        "risks": [
+          "市場整體波動影響醫療保健股價",
+          "油價變動可能間接影響市場情緒"
+        ],
+        "action_label": "watch",
+        "confidence": 70
+      },
+      "news": [
+        {
+          "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Oil Prices Ease From Recent Surge",
+          "summary": "The broad market exchange-traded fund SPDR S&amp;P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
+          "published": "2026-03-13 13:02"
+        },
+        {
+          "title": "Sector Update: Health Care Stocks Retreat Late Afternoon",
+          "summary": "Health care stocks declined late Thursday afternoon, with the NYSE Health Care Index down 1.3% and t",
+          "published": "2026-03-12 19:55"
+        },
+        {
+          "title": "Sector Update: Health Care Stocks Lower in Afternoon Trading",
+          "summary": "Health care stocks declined Thursday afternoon, with the NYSE Health Care Index and the State Street",
+          "published": "2026-03-12 18:00"
+        }
+      ]
+    },
+    {
+      "symbol": "VXUS",
+      "shares": 35,
+      "avg_price": 72.45,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "international ETF",
+      "current_price": 76.73999786376953,
+      "score": 8.32,
+      "pnl_pct": 0.059213221032015574,
+      "pnl_value": 150.14992523193348,
+      "metrics": {
+        "symbol": "VXUS",
+        "price": 76.73999786376953,
+        "momentum_1m": -0.07531028028533697,
+        "volume_ratio": 0.7301091161168589,
+        "macd_hist": -0.6638638467209326,
+        "atr": 1.6725006103515625,
+        "score": 8.32
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "VXUS面臨來自其他國際ETF如VYMI的競爭，短期表現可能受限。",
+        "long_term_view": "VXUS作為國際股票ETF，仍具穩健的長期投資價值與分散風險功能。",
+        "risks": [
+          "國際市場波動風險",
+          "其他國際ETF競爭加劇"
+        ],
+        "action_label": "watch",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "VYMI: Why This International ETF Might Keep Beating American Stocks",
+          "summary": "This Vanguard ETF offers international exposure with a 3.3% dividend yield.",
+          "published": "2026-03-13 14:05"
+        },
+        {
+          "title": "Greenline Partners Trims Position in Vanguard 0–3 Month T-Bill ETF, According to Recent SEC Filing",
+          "summary": "The Vanguard 0-3 Month Treasury Bill ETF invests in ultra-short U.S. Treasury securities, giving investors a way to earn short-term government yields while keeping interest-rate risk and portfolio volatility low.",
+          "published": "2026-03-12 23:32"
+        },
+        {
+          "title": "VYMI or VXUS: Which International ETF Is Better for Investors?",
+          "summary": "The VYMI's value-oriented approach to international stocks might be better than VXUS.",
+          "published": "2026-03-12 22:22"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "shares": 20,
+      "avg_price": 323.9,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "core tech",
+      "current_price": 302.2799987792969,
+      "score": 12.58,
+      "pnl_pct": -0.06674900037265546,
+      "pnl_value": -432.40002441406205,
+      "metrics": {
+        "symbol": "GOOGL",
+        "price": 302.2799987792969,
+        "momentum_1m": -0.027913535227361164,
+        "volume_ratio": 0.7390437783868248,
+        "macd_hist": 0.30848454336745146,
+        "atr": 7.367503574916294,
+        "score": 12.58
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "Alphabet積極擴展數據中心並推動能源利用效率，支持AI業務增長。",
+        "long_term_view": "Alphabet透過基礎設施投資和產業合作，鞏固其在AI領域的領先地位，具長期成長潛力。",
+        "risks": [
+          "數據中心擴張帶來的資本支出壓力",
+          "能源成本波動可能影響營運成本"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Michael Saylor: STRC Stock Achieved Better Risk-Adjusted Returns Than Nvidia, Tesla",
+          "summary": "Strive purchased $50 million of Strategy’s STRC preferred stock after Michael Saylor claimed STRC achieved a Sharpe ratio above 3, outperforming Nvidia, Tesla and gold on risk-adjusted returns. The Saylor Sharpe Ratio Claim Saylor posted on X on Wednesday that...",
+          "published": "2026-03-15 10:45"
+        },
+        {
+          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
+          "summary": "This high-flying chip stock is poised for another big year.",
+          "published": "2026-03-15 10:00"
+        },
+        {
+          "title": "Alphabet’s AI Future Hinges On Data Centers And Grid Utilization",
+          "summary": "Alphabet (NasdaqGS: GOOGL) is committing a $1 billion spend to expand its data center footprint in North Carolina. Google is also leading a new industry coalition, Utilize, focused on improving U.S. grid utilization for AI data centers. The initiatives aim to support growing demand for AI services like Gemini, Search, and YouTube while managing energy costs. For you as an investor, these moves sit at the core of Alphabet’s business model, which relies heavily on large-scale infrastructure...",
+          "published": "2026-03-15 09:07"
+        }
+      ]
+    },
+    {
+      "symbol": "9988.HK",
+      "shares": 100,
+      "avg_price": 163.36,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "china internet",
+      "current_price": 132.5,
+      "score": 4.01,
+      "pnl_pct": -0.18890793339862885,
+      "pnl_value": -3086.0000000000014,
+      "metrics": {
+        "symbol": "9988.HK",
+        "price": 132.5,
+        "momentum_1m": -0.1608612721868503,
+        "volume_ratio": 0.6428742815830707,
+        "macd_hist": -0.45954778801002405,
+        "atr": 5.028570992606027,
+        "score": 4.01
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "阿里巴巴積極推動AI技術及票務業務擴展，提升市場競爭力。",
+        "long_term_view": "阿里巴巴持續加碼AI及多元業務，有望在長期內鞏固其科技領導地位。",
+        "risks": [
+          "市場對阿里巴巴估值及情緒仍處於低迷狀態",
+          "內部領導層變動可能帶來不確定性"
+        ],
+        "action_label": "review",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching",
+          "summary": "A crucial week for the market includes a Fed meeting, the Nvidia GTC conference and Micron earnings, for starters.",
+          "published": "2026-03-14 12:37"
+        },
+        {
+          "title": "China AI Startup Moonshot Snags Funds at $18 Billion Valuation",
+          "summary": "It’s unclear who is participating in the latest round, but Moonshot backers including Alibaba Group Holding Ltd., Tencent Holdings Ltd. and 5Y Capital increased their bets at the $10 billion level, Bloomberg News reported last month.",
+          "published": "2026-03-14 09:35"
+        },
+        {
+          "title": "Alibaba AI Push And Ticketing Expansion Versus Depressed Valuation And Sentiment",
+          "summary": "Alibaba Group Holding (NYSE:BABA) has launched JVS Claw, a consumer app that brings its OpenClaw AI agent technology to users in China. The company is positioning JVS Claw as part of a broader push to popularize agent-based AI assistants amid rising competition from domestic tech peers. Separately, Alibaba’s ticketing arm MAISEAT, via Damai Entertainment, has secured its first primary ticketing partnership outside mainland China. These moves come during an ongoing leadership shakeup and...",
+          "published": "2026-03-13 20:08"
+        }
+      ]
+    },
+    {
+      "symbol": "1810.HK",
+      "shares": 600,
+      "avg_price": 42.25,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "xiaomi",
+      "current_price": 33.31999969482422,
+      "score": 7.39,
+      "pnl_pct": -0.21136095396865753,
+      "pnl_value": -5358.000183105469,
+      "metrics": {
+        "symbol": "1810.HK",
+        "price": 33.31999969482422,
+        "momentum_1m": -0.053409120095662205,
+        "volume_ratio": 0.6009394952204697,
+        "macd_hist": 0.03017677166609334,
+        "atr": 1.1885722024100167,
+        "score": 7.39
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "1810.HK近期因中國汽車製造商與歐洲企業合作消息影響，市場觀望情緒濃厚。",
+        "long_term_view": "若合作順利，將有助於1810.HK拓展國際市場及提升競爭力，長期發展具潛力。",
+        "risks": [
+          "中歐合作談判不確定性",
+          "全球汽車市場需求波動"
+        ],
+        "action_label": "watch",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Stellantis explores Chinese partnerships for European operations – report",
+          "summary": "The talks have included scenarios in which the Chinese companies take stakes in assets such as Maserati or other units.",
+          "published": "2026-03-13 16:26"
+        },
+        {
+          "title": "Xiaomi Slides 44% From Peak as Short Sellers Rack Up $1.8B Gains",
+          "summary": "Short interest surges to 7.5% as rising memory costs and slowing EV deliveries cloud Xiaomi's outlook ahead of March 24 earnings.",
+          "published": "2026-03-13 13:46"
+        },
+        {
+          "title": "Stellantis Explores Xiaomi, Xpeng Deals to Revamp European Operations",
+          "summary": "Automaker discusses potential Chinese investment in its European business, including possible stakes in Maserati and access to production capacity.",
+          "published": "2026-03-13 13:20"
+        }
+      ]
+    },
+    {
+      "symbol": "2600.HK",
+      "shares": 2000,
+      "avg_price": 11.57,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "shipping",
+      "current_price": 13.609999656677246,
+      "score": 15.7,
+      "pnl_pct": 0.17631803428498236,
+      "pnl_value": 4079.9993133544917,
+      "metrics": {
+        "symbol": "2600.HK",
+        "price": 13.609999656677246,
+        "momentum_1m": 0.04934459340570621,
+        "volume_ratio": 0.9313985318267349,
+        "macd_hist": -0.0635312315083647,
+        "atr": 0.7585714885166713,
+        "score": 15.7
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "2600.HK因海外擴張和鋁擠壓市場增長前景，短期表現有望穩健。",
+        "long_term_view": "隨著全球鋁擠壓市場持續擴大及巴西投資布局深化，2600.HK長期成長潛力可期。",
+        "risks": [
+          "全球金屬市場價格波動風險",
+          "海外投資整合及政治經濟風險"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Aluminum Extrusion Market worth $166.65 billion by 2030, at a CAGR of 7.0%, says MarketsandMarkets™",
+          "summary": "Delray Beach, FL, Feb. 25, 2026 (GLOBE NEWSWIRE) -- The Aluminum Extrusion Market is estimated to be USD 111.88 billion in 2024 and is projected to reach USD 166.65 billion by 2030, at a CAGR of 7.0%, as per the recent study by MarketsandMarkets™. The demand for aluminum extruded products is on the rise due to the growing need in various applications in the construction & infrastructure, automotive & mass transport, electrical & electronics, machinery & equipment, and other end-use industries. T",
+          "published": "2026-02-25 14:00"
+        },
+        {
+          "title": "Chalco’s Brazilian Deal Expands Global Reach And Raises Valuation Questions",
+          "summary": "Aluminum Corporation of China (SEHK:2600), known as Chalco, and Rio Tinto have jointly acquired a controlling stake in Companhia Brasileira de Alumínio. The deal gives Chalco significant influence over a major Brazilian aluminum producer and marks the company’s largest outbound investment to date. This move expands Chalco’s overseas footprint and increases its role in the global aluminum supply chain. For investors watching SEHK:2600, this transaction comes with the stock at HK$13.85 and...",
+          "published": "2026-02-02 04:28"
+        },
+        {
+          "title": "Basic Materials Roundup: Market Talk",
+          "summary": "BUSINESS  The latest Market Talks covering Basic Materials. Published exclusively on Dow Jones Newswires at 4:20 ET, 12:20 ET and 16:50 ET.  0338 ET – Shares in London-listed miners fall as the price of silver declines and metal markets continue to experience rising volatility.",
+          "published": "2026-01-30 22:03"
+        }
+      ]
+    },
+    {
+      "symbol": "1347.HK",
+      "shares": 1000,
+      "avg_price": 74.04,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "semiconductor",
+      "current_price": 88.0,
+      "score": 18.98,
+      "pnl_pct": 0.1885467314964883,
+      "pnl_value": 13959.999999999995,
+      "metrics": {
+        "symbol": "1347.HK",
+        "price": 88.0,
+        "momentum_1m": -0.14146341463414633,
+        "volume_ratio": 1.5956090910376284,
+        "macd_hist": -0.4791779564881704,
+        "atr": 5.8250002179827005,
+        "score": 18.98
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "1347.HK近期股價短期波動，但過去三個月及一年表現強勁。",
+        "long_term_view": "公司積極擴張及併購，符合中國半導體自給自足政策，有望長期增長。",
+        "risks": [
+          "近期淨虧損及成本上升壓力",
+          "半導體行業整合帶來的不確定性"
+        ],
+        "action_label": "review",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "A Look At Hua Hong Semiconductor (SEHK:1347) Valuation After Its Strong Recent Share Price Momentum",
+          "summary": "Why Hua Hong Semiconductor is on investors’ radar today Hua Hong Semiconductor (SEHK:1347) has drawn attention after a period where its share price shows mixed shorter term moves, but a strong past 3 months and 1 year total return. This has prompted fresh interest in its fundamentals. See our latest analysis for Hua Hong Semiconductor. While the recent 1 day, 7 day and 30 day share price returns are slightly negative, the 90 day share price return of 27.83% and 1 year total shareholder...",
+          "published": "2026-02-15 23:11"
+        },
+        {
+          "title": "Hua Hong Semiconductor Ltd (HHUSF) Q4 2025 Earnings Call Highlights: Record Revenue and ...",
+          "summary": "Hua Hong Semiconductor Ltd (HHUSF) reports a record quarterly revenue with strategic expansions, despite facing increased expenses and a net loss.",
+          "published": "2026-02-12 15:03"
+        },
+        {
+          "title": "China's top contract chipmakers pursue acquisitions amid Beijing's self-sufficiency drive",
+          "summary": "Hua Hong Semiconductor, China's No 2 contract chipmaker, on Wednesday announced the acquisition of its sister foundry in Shanghai, days after market leader Semiconductor Manufacturing International Corp (SMIC) said it would take full control of a subsidiary. Those big-ticket transactions - 8.27 billion yuan (US$1.2 billion) for Hua Hong and 40.6 billion yuan for SMIC - signalled a fresh round of consolidation in the country's semiconductor industry, as Beijing's tech self-sufficiency drive gathe",
+          "published": "2026-01-02 09:30"
+        }
+      ]
+    },
+    {
+      "symbol": "1635.HK",
+      "shares": 6000,
+      "avg_price": 4.08,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "small cap",
+      "current_price": 3.7699999809265137,
+      "score": 13.83,
+      "pnl_pct": -0.07598039683173687,
+      "pnl_value": -1860.0001144409184,
+      "metrics": {
+        "symbol": "1635.HK",
+        "price": 3.7699999809265137,
+        "momentum_1m": 0.22801304980626355,
+        "volume_ratio": 0.43736786890525575,
+        "macd_hist": 0.03343795437354283,
+        "atr": 0.7414286136627197,
+        "score": 13.83
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "近期無重大消息，股價可能維持穩定。",
+        "long_term_view": "缺乏新資訊，長期走勢需觀察市場及公司後續發展。",
+        "risks": [
+          "缺乏消息導致市場關注度降低",
+          "宏觀經濟及行業變化風險"
+        ],
+        "action_label": "watch",
+        "confidence": 0
+      },
+      "news": []
+    }
+  ],
+  "opportunities": [
+    {
+      "symbol": "PLTR",
+      "metrics": {
+        "symbol": "PLTR",
+        "price": 150.9499969482422,
+        "momentum_1m": 0.11254425926267476,
+        "volume_ratio": 0.794801964799998,
+        "macd_hist": 2.272250357070463,
+        "atr": 6.5475665501185825,
+        "score": 34.04
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "Palantir透過與多家防務及航空航天企業的合作，強化其AI技術在關鍵任務中的應用。",
+        "long_term_view": "Palantir持續擴展AI平台在政府及工業領域的影響力，具備長期成長潛力。",
+        "risks": [
+          "地緣政治緊張可能影響防務相關業務",
+          "AI技術競爭激烈，需持續創新以維持領先地位"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Palantir Partnerships Deepen Role In Mission Critical AI Operations",
+          "summary": "Palantir Technologies (NasdaqGS:PLTR) announced new partnerships across defense, aerospace, and AI infrastructure. The company introduced an AI OS reference architecture with NVIDIA aimed at sovereign AI opportunities. Alliances with GE Aerospace, Centrus Energy, Ondas, and World View extend Palantir’s AI into operational settings such as aviation, uranium enrichment, and multi-domain intelligence. Palantir, known for its data and AI platforms for government and industrial clients, is...",
+          "published": "2026-03-15 03:09"
+        },
+        {
+          "title": "The Only 2 Artificial Intelligence (AI) Stocks You Need to Hold Through 2035",
+          "summary": "These companies are playing central roles in two important niches of the AI industry.",
+          "published": "2026-03-15 00:25"
+        },
+        {
+          "title": "Palantir CEO Alex Karp Says AI Is Reshaping Modern Warfare As Iran War Escalates: 'There's Only One Product...'",
+          "summary": "On Thursday, Palantir Technologies Inc. CEO Alex Karp said that artificial intelligence is giving the U.S. and its allies a strategic edge as tensions rise across the Middle East amid the escalating Iran conflict. AI Giving US A Strategic Edge In Modern Warfare Speaking with CNBC, Karp said that AI is increasingly shaping the balance of power on the battlefield. He argued that the U.S. and its allies hold an advantage because of their technological capabilities. Karp was speaking during the comp",
+          "published": "2026-03-14 23:30"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "metrics": {
+        "symbol": "MSFT",
+        "price": 395.54998779296875,
+        "momentum_1m": -0.021811725475978226,
+        "volume_ratio": 0.7764500945491436,
+        "macd_hist": 2.1303727678765867,
+        "atr": 8.866426740373884,
+        "score": 27.93
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "儘管Azure供應面臨挑戰，市場對微軟短期表現仍持樂觀看法。",
+        "long_term_view": "微軟被視為未來十年中具備強大競爭力的科技巨頭，長期成長潛力穩健。",
+        "risks": [
+          "Azure供應鏈瓶頸可能影響短期營收",
+          "市場競爭加劇可能壓縮利潤空間"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
+          "summary": "This high-flying chip stock is poised for another big year.",
+          "published": "2026-03-15 10:00"
+        },
+        {
+          "title": "Alphabet (GOOGL) and Other Tech Giants Pledge at White House to Power Next-Generation Data Centers",
+          "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 13 unrivaled stocks of the next 10 years, reflecting the company’s pivotal position in the rapidly growing cloud infrastructure and artificial intelligence ecosystem. With the growing demand for AI computing capacity, this position is becoming increasingly apparent. According to a Reuters report on March 4, 2026, Alphabet Inc. (NASDAQ:GOOGL) was […]",
+          "published": "2026-03-15 07:25"
+        },
+        {
+          "title": "Wall Street Remains Bullish on Microsoft (MSFT) Amid Azure Supply Headwinds",
+          "summary": "Microsoft Corporation (NASDAQ:MSFT) stands among the 13 unrivaled stocks of the next 10 years. Wall Street’s outlook on Microsoft Corporation (NASDAQ:MSFT) remains very favorable. A median price target of $600 indicates about 47.90% upside, with roughly 92% of covering analysts remaining bullish. Among the most recent analyst updates, Stifel stood out for raising concerns about […]",
+          "published": "2026-03-15 07:25"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "metrics": {
+        "symbol": "META",
+        "price": 613.7100219726562,
+        "momentum_1m": -0.0822204313927478,
+        "volume_ratio": 1.5478085678781188,
+        "macd_hist": -2.741525914903589,
+        "atr": 18.464996337890625,
+        "score": 20.34
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "市場對META收購Moltbook後的前景持強烈正面看法，股價有望上漲約29%。",
+        "long_term_view": "META致力於將人工智慧作為長期平台策略核心，具備未來十年持續成長的潛力。",
+        "risks": [
+          "全球經濟與地緣政治不確定性可能影響股市表現",
+          "人工智慧技術競爭激烈，可能影響META的市場地位"
+        ],
+        "action_label": "hold",
+        "confidence": 85
+      },
+      "news": [
+        {
+          "title": "Alphabet (GOOGL) and Other Tech Giants Pledge at White House to Power Next-Generation Data Centers",
+          "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 13 unrivaled stocks of the next 10 years, reflecting the company’s pivotal position in the rapidly growing cloud infrastructure and artificial intelligence ecosystem. With the growing demand for AI computing capacity, this position is becoming increasingly apparent. According to a Reuters report on March 4, 2026, Alphabet Inc. (NASDAQ:GOOGL) was […]",
+          "published": "2026-03-15 07:25"
+        },
+        {
+          "title": "Strong Analyst Sentiment on Meta (META) Post Moltbook Acquisition",
+          "summary": "Due to its efforts to prioritize artificial intelligence in its long-term platform strategy, Meta Platforms, Inc. (NASDAQ:META) is one of the 13 unrivaled stocks of the next 10 years. Wall Street sentiment toward Meta Platforms, Inc. (NASDAQ:META) remains largely favorable. With a consensus price target of $852.50, which suggests about 29.43% upside, over 90% of […]",
+          "published": "2026-03-15 07:25"
+        },
+        {
+          "title": "Dow Jones Futures: Oil Prices, Iran War Drive Stocks Lower; Nvidia GTC, Micron Earnings Due",
+          "summary": "The stock market fell for a third straight week, breaking or testing key levels, as oil prices soared amid the Iran war. Nvidia GTC and Micron earnings loom.",
+          "published": "2026-03-15 02:52"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "metrics": {
+        "symbol": "AVGO",
+        "price": 322.1600036621094,
+        "momentum_1m": -0.060100377863805204,
+        "volume_ratio": 0.9880718514130167,
+        "macd_hist": 0.8784311420465738,
+        "atr": 14.522864205496651,
+        "score": 19.75
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "AVGO在AI晶片銷售預期強勁下，短期內股價有望持續上升。",
+        "long_term_view": "Broadcom被視為未來十年內表現優異的半導體龍頭，具備長期成長潛力。",
+        "risks": [
+          "股價近期表現不穩定",
+          "半導體市場競爭激烈及技術變化風險"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Strong Wall Street Sentiment on Broadcom (AVGO) Amid $100+ Billion AI Chip Sales Forecast",
+          "summary": "With strong Wall Street confidence, Broadcom Inc. (NASDAQ:AVGO) is one of the 13 unrivaled stocks of the next 10 years. With a median price target of $470, which suggests a potential upside of over 35.90%, about 96% of covering analysts are positive on the semiconductor giant. Notwithstanding this confidence, the stock’s recent performance remains inconsistent […]",
+          "published": "2026-03-15 07:25"
+        },
+        {
+          "title": "1 Unstoppable Stock To Buy Right Now Before It Soars 91% to Join Nvidia, Apple, Alphabet, and Microsoft in the $3 Trillion Club",
+          "summary": "Coming off a fantastic 2025, this semiconductor and data center specialist kicked off 2026 with a bang.",
+          "published": "2026-03-15 07:22"
+        },
+        {
+          "title": "The Best Stocks to Invest $1,000 In Right Now -- and One of Them Is Nvidia",
+          "summary": "These two companies have averaged annual gains of more than 50% over the past five years -- and they're still growing.",
+          "published": "2026-03-15 00:35"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "metrics": {
+        "symbol": "AMZN",
+        "price": 207.6699981689453,
+        "momentum_1m": 0.01759112262681457,
+        "volume_ratio": 0.6915809114256679,
+        "macd_hist": 0.8028673797695296,
+        "atr": 5.623571123395648,
+        "score": 17.41
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "亞馬遜近期股價有所回調，面臨來自其他零售商的競爭壓力。",
+        "long_term_view": "亞馬遜作為電商巨頭，仍具備長期成長潛力，但需關注市場競爭與行業變化。",
+        "risks": [
+          "其他零售商電商增長速度超過亞馬遜",
+          "市場競爭加劇可能影響亞馬遜的市場份額"
+        ],
+        "action_label": "review",
+        "confidence": 70
+      },
+      "news": [
+        {
+          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
+          "summary": "This high-flying chip stock is poised for another big year.",
+          "published": "2026-03-15 10:00"
+        },
+        {
+          "title": "Top 2 Retail Growth Stocks to Buy After Amazon's Latest Sell-Off",
+          "summary": "These retailers are reporting faster e-commerce growth than Amazon.",
+          "published": "2026-03-15 08:45"
+        },
+        {
+          "title": "Best Growth Stock to Buy Right Now: Amazon vs. MercadoLibre",
+          "summary": "Investors need to consider several variables when analyzing these two e-commerce giants.",
+          "published": "2026-03-15 07:35"
+        }
+      ]
+    }
+  ]
+}

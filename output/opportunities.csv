@@ -1,0 +1,6 @@
+﻿rank,symbol,price,score,signal_bucket,why_flagged,momentum_1m_pct,volume_ratio,macd_hist,sentiment,action_label,confidence,short_term_view,long_term_view
+1,PLTR,150.95,34.04,Strong,1M momentum strong; volume below average; MACD positive,11.25,0.79,2.2723,積極,hold,0,Palantir透過與多家防務及航空航天企業的合作，強化其AI技術在關鍵任務中的應用。,Palantir持續擴展AI平台在政府及工業領域的影響力，具備長期成長潛力。
+2,MSFT,395.55,27.93,Watch,1M momentum weak; volume below average; MACD positive,-2.18,0.78,2.1304,積極,hold,0,儘管Azure供應面臨挑戰，市場對微軟短期表現仍持樂觀看法。,微軟被視為未來十年中具備強大競爭力的科技巨頭，長期成長潛力穩健。
+3,META,613.71,20.34,Watch,1M momentum weak; volume above average; MACD negative,-8.22,1.55,-2.7415,積極,hold,85,市場對META收購Moltbook後的前景持強烈正面看法，股價有望上漲約29%。,META致力於將人工智慧作為長期平台策略核心，具備未來十年持續成長的潛力。
+4,AVGO,322.16,19.75,Watch,1M momentum weak; MACD positive,-6.01,0.99,0.8784,積極,hold,0,AVGO在AI晶片銷售預期強勁下，短期內股價有望持續上升。,Broadcom被視為未來十年內表現優異的半導體龍頭，具備長期成長潛力。
+5,AMZN,207.67,17.41,Watch,1M momentum positive; volume below average; MACD positive,1.76,0.69,0.8029,中性,review,70,亞馬遜近期股價有所回調，面臨來自其他零售商的競爭壓力。,亞馬遜作為電商巨頭，仍具備長期成長潛力，但需關注市場競爭與行業變化。
