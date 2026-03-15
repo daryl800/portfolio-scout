@@ -9,44 +9,44 @@
       "market": "US",
       "notes": "core tech",
       "current_price": 250.1199951171875,
-      "score": 9.2,
+      "score": 10.15,
       "pnl_pct": -0.09576662045049894,
       "pnl_value": -503.31009277343776,
       "metrics": {
         "symbol": "AAPL",
         "price": 250.1199951171875,
         "momentum_1m": -0.09212342970167876,
-        "volume_ratio": 0.828314937430196,
+        "volume_ratio": 0.8916428684298986,
         "macd_hist": -1.455731821937952,
         "atr": 6.047857012067523,
-        "score": 9.2
+        "score": 10.15
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "蘋果推遲智慧家庭顯示器的發布，顯示AI產品仍在調整中。",
-        "long_term_view": "蘋果仍被視為未來十年中具備強大競爭力的股票之一，具備長期成長潛力。",
+        "short_term_view": "股價受股拆和油價波動影響，短期波動存在。",
+        "long_term_view": "蘋果持續擴大市值，長期仍具吸引力。",
         "risks": [
-          "智慧家庭產品發布延遲可能影響短期營收表現",
-          "人工智慧技術發展尚未成熟，存在不確定性"
+          "油價上漲可能影響成本與市場情緒",
+          "市場整體波動風險"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
         {
-          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
-          "summary": "This high-flying chip stock is poised for another big year.",
-          "published": "2026-03-15 10:00"
+          "title": "Did Warren Buffett Know Something Wall Street Doesn't? The Former Berkshire Hathaway CEO Left a $373 Billion Warning for the Stock Market.",
+          "summary": "Warren Buffett left Berkshire Hathaway with a massive war chest and spent his final years as CEO selling stocks while Wall Street celebrated record highs.",
+          "published": "2026-03-15 19:20"
         },
         {
-          "title": "Warren Buffett returned 6,000,000% plus for investors over 60 years. Here are his 5 biggest wins and what to learn",
-          "summary": "The Oracle of Omaha just retired after six decades running Berkshire Hathaway — turning $9,800 into a $150 billion personal fortune that crushed the S&amp;P 500 by 130x.",
-          "published": "2026-03-15 09:45"
+          "title": "Apple's stock split history: Everything you need to know",
+          "summary": "Apple’s market capitalization is in the trillions of dollars. As demand for its shares has increased over the past few decades, the company has chosen to split its shares to make the stock more affordable for many individual investors. Without such stock splits, Apple would have been out of reach ...",
+          "published": "2026-03-15 15:01"
         },
         {
-          "title": "Apple (AAPL) Postpones Its Smart Home Display Release",
-          "summary": "Apple Inc. (NASDAQ:AAPL) earns a place on our list of the 13 unrivaled stocks of the next 10 years, though recent developments suggest the company’s artificial intelligence rollout is still evolving. According to TheFly’s report citing Bloomberg’s Mark Gurman’s comments on March 9, 2026, Apple Inc. (NASDAQ:AAPL) has decided to delay the release of its smart home […]",
-          "published": "2026-03-15 07:25"
+          "title": "Why surging oil prices should matter even if you own Apple, Nvidia, and Microsoft",
+          "summary": "Connecting the dots on oil prices will serve you well.",
+          "published": "2026-03-15 12:30"
         }
       ]
     },
@@ -73,14 +73,14 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "市場可能面臨2026年股市崩盤風險，BND作為防禦型ETF值得關注。",
-        "long_term_view": "BND可作為退休投資組合的穩健補充，幫助彌補社會安全福利不足。",
+        "short_term_view": "市場可能面臨2026年中期選舉年股市波動與崩盤風險。",
+        "long_term_view": "適合用於退休組合補充，提供防禦性配置。",
         "risks": [
-          "2026年股市可能出現大幅波動",
-          "社會安全福利不足導致退休資金壓力"
+          "市場崩盤風險",
+          "退休金不足風險"
         ],
         "action_label": "watch",
-        "confidence": 70
+        "confidence": 0
       },
       "news": [
         {
@@ -123,13 +123,13 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "隨著美國30年期房貸利率降至5.98%，SCHH短期內受惠於房地產估值提升。",
-        "long_term_view": "2026年大量商業房地產貸款到期，SCHH的長期表現將取決於再融資環境的穩定與否。",
+        "short_term_view": "美國房貸利率下降提振房地產估值與股息吸引力。",
+        "long_term_view": "商業房地產貸款到期風險需關注，影響未來回報。",
         "risks": [
-          "2026年高達1620億美元的商業房地產貸款到期帶來再融資風險",
-          "聯準會利率政策及10年期美債收益率波動可能影響房地產市場"
+          "商業房地產貸款到期壓力",
+          "利率變動風險"
         ],
-        "action_label": "watch",
+        "action_label": "review",
         "confidence": 0
       },
       "news": [
@@ -172,12 +172,12 @@
         "score": 31.74
       },
       "analysis": {
-        "sentiment": "中性",
-        "short_term_view": "中東緊張局勢可能導致市場短期波動。",
-        "long_term_view": "VOO作為大型且資產規模龐大的ETF，適合長期持有以追求穩健成長。",
+        "sentiment": "積極",
+        "short_term_view": "中東緊張局勢可能帶來短期波動。",
+        "long_term_view": "長期持有有望受益於美國經濟與出口動能。",
         "risks": [
-          "中東地緣政治緊張導致市場波動",
-          "全球經濟不確定性影響股市表現"
+          "地緣政治風險",
+          "市場短期波動"
         ],
         "action_label": "hold",
         "confidence": 0
@@ -209,30 +209,35 @@
       "market": "US",
       "notes": "tech ETF",
       "current_price": 593.719970703125,
-      "score": 11.8,
+      "score": 11.98,
       "pnl_pct": 0.024043552214848784,
       "pnl_value": 111.51976562500022,
       "metrics": {
         "symbol": "QQQ",
         "price": 593.719970703125,
         "momentum_1m": -0.03162567094274137,
-        "volume_ratio": 0.8605494102831683,
+        "volume_ratio": 0.8722593757813901,
         "macd_hist": -0.729765713489241,
         "atr": 10.955705915178571,
-        "score": 11.8
+        "score": 11.98
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "近期市場波動，ETF價格下跌但期貨表現回升，顯示短期不確定性存在。",
-        "long_term_view": "長期來看，結構性風險如油價飆升可能對市場造成重大影響，需持續關注宏觀經濟指標。",
+        "short_term_view": "市場波動與油價飆升可能帶來結構性風險。",
+        "long_term_view": "均衡權重ETF可避免科技股過度集中風險。",
         "risks": [
-          "油價飆升至200美元引發結構性危機",
-          "經濟數據低於預期導致市場波動"
+          "油價劇烈波動",
+          "科技股集中風險"
         ],
         "action_label": "watch",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "Avoid the Top-Heavy S&P 500 With Equal-Weight ETFs",
+          "summary": "Equal-weight ETFs can help to avoid automatic overconcentration in the AI-dominated tech sector, but they come at a higher cost than popular alternatives.",
+          "published": "2026-03-14 14:08"
+        },
         {
           "title": "What Happens at $200 a Barrel?",
           "summary": "A jump to $200 oil would represent more than a price increase; it would be a systemic shock that shifts the U.S. from a \"soft landing\" into a structural crisis.",
@@ -242,11 +247,6 @@
           "title": "Exchange-Traded Funds Drop, US Equities Mixed After Midday",
           "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV were lower. Actively trade",
           "published": "2026-03-13 17:09"
-        },
-        {
-          "title": "Q4 GDP, Durable Goods Lower than Anticipated",
-          "summary": "Pre-market futures are up following the release of this data, bringing in a spring green a week ahead of the season's change.",
-          "published": "2026-03-13 14:35"
         }
       ]
     },
@@ -272,15 +272,15 @@
         "score": 13.16
       },
       "analysis": {
-        "sentiment": "消極",
-        "short_term_view": "近期醫療保健類股表現疲軟，股價有所下跌。",
-        "long_term_view": "醫療保健行業具備長期成長潛力，但短期波動需謹慎觀察。",
+        "sentiment": "中性",
+        "short_term_view": "醫療保健股近期表現疲弱，指數下跌。",
+        "long_term_view": "醫療行業基本面穩健，長期仍具防禦性價值。",
         "risks": [
-          "市場整體波動影響醫療保健股價",
-          "油價變動可能間接影響市場情緒"
+          "短期股價波動",
+          "行業政策變動風險"
         ],
-        "action_label": "watch",
-        "confidence": 70
+        "action_label": "hold",
+        "confidence": 0
       },
       "news": [
         {
@@ -309,27 +309,27 @@
       "market": "US",
       "notes": "international ETF",
       "current_price": 76.73999786376953,
-      "score": 8.32,
+      "score": 8.44,
       "pnl_pct": 0.059213221032015574,
       "pnl_value": 150.14992523193348,
       "metrics": {
         "symbol": "VXUS",
         "price": 76.73999786376953,
         "momentum_1m": -0.07531028028533697,
-        "volume_ratio": 0.7301091161168589,
+        "volume_ratio": 0.7385912929718581,
         "macd_hist": -0.6638638467209326,
         "atr": 1.6725006103515625,
-        "score": 8.32
+        "score": 8.44
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "VXUS面臨來自其他國際ETF如VYMI的競爭，短期表現可能受限。",
-        "long_term_view": "VXUS作為國際股票ETF，仍具穩健的長期投資價值與分散風險功能。",
+        "short_term_view": "國際ETF提供穩定股息，吸引投資者。",
+        "long_term_view": "與其他國際ETF相比，價值導向策略存在競爭。",
         "risks": [
-          "國際市場波動風險",
-          "其他國際ETF競爭加劇"
+          "國際市場波動",
+          "策略競爭風險"
         ],
-        "action_label": "watch",
+        "action_label": "review",
         "confidence": 0
       },
       "news": [
@@ -359,44 +359,44 @@
       "market": "US",
       "notes": "core tech",
       "current_price": 302.2799987792969,
-      "score": 12.58,
+      "score": 12.6,
       "pnl_pct": -0.06674900037265546,
       "pnl_value": -432.40002441406205,
       "metrics": {
         "symbol": "GOOGL",
         "price": 302.2799987792969,
         "momentum_1m": -0.027913535227361164,
-        "volume_ratio": 0.7390437783868248,
+        "volume_ratio": 0.7406404686793949,
         "macd_hist": 0.30848454336745146,
         "atr": 7.367503574916294,
-        "score": 12.58
+        "score": 12.6
       },
       "analysis": {
-        "sentiment": "積極",
-        "short_term_view": "Alphabet積極擴展數據中心並推動能源利用效率，支持AI業務增長。",
-        "long_term_view": "Alphabet透過基礎設施投資和產業合作，鞏固其在AI領域的領先地位，具長期成長潛力。",
+        "sentiment": "中性",
+        "short_term_view": "Meta AI模型表現不佳，Google持續擴大AI安全布局。",
+        "long_term_view": "Google在AI及雲安全領域持續投資，具長期成長潛力。",
         "risks": [
-          "數據中心擴張帶來的資本支出壓力",
-          "能源成本波動可能影響營運成本"
+          "AI技術競爭激烈",
+          "收購整合風險"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
         {
-          "title": "Michael Saylor: STRC Stock Achieved Better Risk-Adjusted Returns Than Nvidia, Tesla",
-          "summary": "Strive purchased $50 million of Strategy’s STRC preferred stock after Michael Saylor claimed STRC achieved a Sharpe ratio above 3, outperforming Nvidia, Tesla and gold on risk-adjusted returns. The Saylor Sharpe Ratio Claim Saylor posted on X on Wednesday that...",
-          "published": "2026-03-15 10:45"
+          "title": "Meta May Delay 'Avocado' As Tech Underwhelms In Tests Against Google Gemini And Anthropic AI Models: Report",
+          "summary": "Meta Platforms, Inc.'s upcoming foundational AI model, code-named \"Avocado,\" has reportedly underperformed compared with systems from competitors during internal evaluations. Meta's ‘Avocado' AI Model Reportedly Falls Short In Internal Tests Internal tests showed \"Avocado\" is lagging behind newer models from companies such as Alphabet Inc.'s Google and Anthropic, the New York Times reported, citing people familiar with the matter. The model is designed to power future chatbots, coding assistants",
+          "published": "2026-03-15 19:31"
         },
         {
-          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
-          "summary": "This high-flying chip stock is poised for another big year.",
-          "published": "2026-03-15 10:00"
+          "title": "Alphabet Inc. (GOOG) Announces Completion of its Acquisition of Wiz",
+          "summary": "Alphabet Inc. (NASDAQ:GOOG) is one of the most profitable blue chip stocks to invest in now. Alphabet Inc. (NASDAQ:GOOG) announced the completion of its acquisition of Wiz on March 11. Headquartered in New York, Wiz is a leading cloud and AI security platform that will join Google Cloud while maintaining its brand. Management stated that […]",
+          "published": "2026-03-15 18:36"
         },
         {
-          "title": "Alphabet’s AI Future Hinges On Data Centers And Grid Utilization",
-          "summary": "Alphabet (NasdaqGS: GOOGL) is committing a $1 billion spend to expand its data center footprint in North Carolina. Google is also leading a new industry coalition, Utilize, focused on improving U.S. grid utilization for AI data centers. The initiatives aim to support growing demand for AI services like Gemini, Search, and YouTube while managing energy costs. For you as an investor, these moves sit at the core of Alphabet’s business model, which relies heavily on large-scale infrastructure...",
-          "published": "2026-03-15 09:07"
+          "title": "Wiz investor unpacks Google’s $32B acquisition",
+          "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+          "published": "2026-03-15 15:30"
         }
       ]
     },
@@ -416,23 +416,28 @@
         "symbol": "9988.HK",
         "price": 132.5,
         "momentum_1m": -0.1608612721868503,
-        "volume_ratio": 0.6428742815830707,
+        "volume_ratio": 0.6428730818457957,
         "macd_hist": -0.45954778801002405,
         "atr": 5.028570992606027,
         "score": 4.01
       },
       "analysis": {
-        "sentiment": "積極",
-        "short_term_view": "阿里巴巴積極推動AI技術及票務業務擴展，提升市場競爭力。",
-        "long_term_view": "阿里巴巴持續加碼AI及多元業務，有望在長期內鞏固其科技領導地位。",
+        "sentiment": "中性",
+        "short_term_view": "市場關注美聯儲利率決策及AI產業動態。",
+        "long_term_view": "阿里巴巴及相關企業持續投入AI，長期成長可期。",
         "risks": [
-          "市場對阿里巴巴估值及情緒仍處於低迷狀態",
-          "內部領導層變動可能帶來不確定性"
+          "政策風險",
+          "市場波動"
         ],
-        "action_label": "review",
+        "action_label": "watch",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "Nvidia GTC, Lululemon, Micron, Fed Rates, Home Sales, and More to Watch This Week",
+          "summary": "The Fed will announce its rate decision Wednesday, and data on pending home sales will come Thursday. Dollar Tree, Oklo, Alibaba, and a handful of others will also report earnings.",
+          "published": "2026-03-15 18:00"
+        },
         {
           "title": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching",
           "summary": "A crucial week for the market includes a Fed meeting, the Nvidia GTC conference and Micron earnings, for starters.",
@@ -442,11 +447,6 @@
           "title": "China AI Startup Moonshot Snags Funds at $18 Billion Valuation",
           "summary": "It’s unclear who is participating in the latest round, but Moonshot backers including Alibaba Group Holding Ltd., Tencent Holdings Ltd. and 5Y Capital increased their bets at the $10 billion level, Bloomberg News reported last month.",
           "published": "2026-03-14 09:35"
-        },
-        {
-          "title": "Alibaba AI Push And Ticketing Expansion Versus Depressed Valuation And Sentiment",
-          "summary": "Alibaba Group Holding (NYSE:BABA) has launched JVS Claw, a consumer app that brings its OpenClaw AI agent technology to users in China. The company is positioning JVS Claw as part of a broader push to popularize agent-based AI assistants amid rising competition from domestic tech peers. Separately, Alibaba’s ticketing arm MAISEAT, via Damai Entertainment, has secured its first primary ticketing partnership outside mainland China. These moves come during an ongoing leadership shakeup and...",
-          "published": "2026-03-13 20:08"
         }
       ]
     },
@@ -459,27 +459,28 @@
       "market": "HK",
       "notes": "xiaomi",
       "current_price": 33.31999969482422,
-      "score": 7.39,
+      "score": 7.38,
       "pnl_pct": -0.21136095396865753,
       "pnl_value": -5358.000183105469,
       "metrics": {
         "symbol": "1810.HK",
         "price": 33.31999969482422,
         "momentum_1m": -0.053409120095662205,
-        "volume_ratio": 0.6009394952204697,
+        "volume_ratio": 0.6007877542122514,
         "macd_hist": 0.03017677166609334,
         "atr": 1.1885722024100167,
-        "score": 7.39
+        "score": 7.38
       },
       "analysis": {
-        "sentiment": "中性",
-        "short_term_view": "1810.HK近期因中國汽車製造商與歐洲企業合作消息影響，市場觀望情緒濃厚。",
-        "long_term_view": "若合作順利，將有助於1810.HK拓展國際市場及提升競爭力，長期發展具潛力。",
+        "sentiment": "消極",
+        "short_term_view": "小米股價大幅下滑，空頭獲利顯著。",
+        "long_term_view": "與中國汽車企業合作探索歐洲市場，存在不確定性。",
         "risks": [
-          "中歐合作談判不確定性",
-          "全球汽車市場需求波動"
+          "成本上升",
+          "銷量放緩",
+          "合作不確定性"
         ],
-        "action_label": "watch",
+        "action_label": "avoid",
         "confidence": 0
       },
       "news": [
@@ -516,18 +517,18 @@
         "symbol": "2600.HK",
         "price": 13.609999656677246,
         "momentum_1m": 0.04934459340570621,
-        "volume_ratio": 0.9313985318267349,
+        "volume_ratio": 0.9313632268011096,
         "macd_hist": -0.0635312315083647,
         "atr": 0.7585714885166713,
         "score": 15.7
       },
       "analysis": {
         "sentiment": "積極",
-        "short_term_view": "2600.HK因海外擴張和鋁擠壓市場增長前景，短期表現有望穩健。",
-        "long_term_view": "隨著全球鋁擠壓市場持續擴大及巴西投資布局深化，2600.HK長期成長潛力可期。",
+        "short_term_view": "鋁擠壓市場需求增長，海外投資擴大影響力。",
+        "long_term_view": "全球鋁產業鏈地位提升，長期成長可期。",
         "risks": [
-          "全球金屬市場價格波動風險",
-          "海外投資整合及政治經濟風險"
+          "市場波動",
+          "國際貿易風險"
         ],
         "action_label": "hold",
         "confidence": 0
@@ -566,20 +567,20 @@
         "symbol": "1347.HK",
         "price": 88.0,
         "momentum_1m": -0.14146341463414633,
-        "volume_ratio": 1.5956090910376284,
+        "volume_ratio": 1.595558256426787,
         "macd_hist": -0.4791779564881704,
         "atr": 5.8250002179827005,
         "score": 18.98
       },
       "analysis": {
-        "sentiment": "中性",
-        "short_term_view": "1347.HK近期股價短期波動，但過去三個月及一年表現強勁。",
-        "long_term_view": "公司積極擴張及併購，符合中國半導體自給自足政策，有望長期增長。",
+        "sentiment": "積極",
+        "short_term_view": "華虹半導體營收創新高，股價近期表現強勁。",
+        "long_term_view": "半導體行業整合加速，具長期成長潛力。",
         "risks": [
-          "近期淨虧損及成本上升壓力",
-          "半導體行業整合帶來的不確定性"
+          "行業競爭",
+          "成本上升"
         ],
-        "action_label": "review",
+        "action_label": "hold",
         "confidence": 0
       },
       "news": [
@@ -616,18 +617,17 @@
         "symbol": "1635.HK",
         "price": 3.7699999809265137,
         "momentum_1m": 0.22801304980626355,
-        "volume_ratio": 0.43736786890525575,
+        "volume_ratio": 0.43726609282828305,
         "macd_hist": 0.03343795437354283,
         "atr": 0.7414286136627197,
         "score": 13.83
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "近期無重大消息，股價可能維持穩定。",
-        "long_term_view": "缺乏新資訊，長期走勢需觀察市場及公司後續發展。",
+        "short_term_view": "無重要新聞，短期無明顯變化。",
+        "long_term_view": "需持續關注後續消息與市場動態。",
         "risks": [
-          "缺乏消息導致市場關注度降低",
-          "宏觀經濟及行業變化風險"
+          "資訊不足風險"
         ],
         "action_label": "watch",
         "confidence": 0
@@ -642,23 +642,28 @@
         "symbol": "PLTR",
         "price": 150.9499969482422,
         "momentum_1m": 0.11254425926267476,
-        "volume_ratio": 0.794801964799998,
+        "volume_ratio": 0.7992772552780699,
         "macd_hist": 2.272250357070463,
         "atr": 6.5475665501185825,
-        "score": 34.04
+        "score": 34.11
       },
       "analysis": {
         "sentiment": "積極",
-        "short_term_view": "Palantir透過與多家防務及航空航天企業的合作，強化其AI技術在關鍵任務中的應用。",
-        "long_term_view": "Palantir持續擴展AI平台在政府及工業領域的影響力，具備長期成長潛力。",
+        "short_term_view": "Palantir深化與NVIDIA及多家企業的AI合作，擴展市場應用。",
+        "long_term_view": "在政府及工業AI領域扮演關鍵角色，長期發展穩健。",
         "risks": [
-          "地緣政治緊張可能影響防務相關業務",
-          "AI技術競爭激烈，需持續創新以維持領先地位"
+          "合作成效不及預期",
+          "政策與市場需求變動"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "NVIDIA GTC 2026 AI Platforms And Partnerships Reshape Investor Expectations",
+          "summary": "NVIDIA (NasdaqGS:NVDA) used GTC 2026 to introduce enterprise ready AI platforms and expand its role across cloud, sovereign and open source AI infrastructure. The company previewed NeMo Studio running on NVIDIA Run:ai, targeting scaled, quota controlled, multi tenant GPU clusters for enterprise AI development. NVIDIA announced deeper alliances, including a full stack sovereign AI architecture with Palantir for regulated sectors and a multi billion partnership with Nebius Group focused on...",
+          "published": "2026-03-15 15:06"
+        },
         {
           "title": "Palantir Partnerships Deepen Role In Mission Critical AI Operations",
           "summary": "Palantir Technologies (NasdaqGS:PLTR) announced new partnerships across defense, aerospace, and AI infrastructure. The company introduced an AI OS reference architecture with NVIDIA aimed at sovereign AI opportunities. Alliances with GE Aerospace, Centrus Energy, Ondas, and World View extend Palantir’s AI into operational settings such as aviation, uranium enrichment, and multi-domain intelligence. Palantir, known for its data and AI platforms for government and industrial clients, is...",
@@ -668,11 +673,6 @@
           "title": "The Only 2 Artificial Intelligence (AI) Stocks You Need to Hold Through 2035",
           "summary": "These companies are playing central roles in two important niches of the AI industry.",
           "published": "2026-03-15 00:25"
-        },
-        {
-          "title": "Palantir CEO Alex Karp Says AI Is Reshaping Modern Warfare As Iran War Escalates: 'There's Only One Product...'",
-          "summary": "On Thursday, Palantir Technologies Inc. CEO Alex Karp said that artificial intelligence is giving the U.S. and its allies a strategic edge as tensions rise across the Middle East amid the escalating Iran conflict. AI Giving US A Strategic Edge In Modern Warfare Speaking with CNBC, Karp said that AI is increasingly shaping the balance of power on the battlefield. He argued that the U.S. and its allies hold an advantage because of their technological capabilities. Karp was speaking during the comp",
-          "published": "2026-03-14 23:30"
         }
       ]
     },
@@ -689,29 +689,69 @@
       },
       "analysis": {
         "sentiment": "積極",
-        "short_term_view": "儘管Azure供應面臨挑戰，市場對微軟短期表現仍持樂觀看法。",
-        "long_term_view": "微軟被視為未來十年中具備強大競爭力的科技巨頭，長期成長潛力穩健。",
+        "short_term_view": "微軟推出Windows 11新平台更新，強化遊戲體驗與圖形性能。",
+        "long_term_view": "微軟作為藍籌股，具備穩定獲利與AI成長潛力。",
         "risks": [
-          "Azure供應鏈瓶頸可能影響短期營收",
-          "市場競爭加劇可能壓縮利潤空間"
+          "市場波動可能影響股價短期表現",
+          "競爭激烈的科技產業環境"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
         {
-          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
-          "summary": "This high-flying chip stock is poised for another big year.",
-          "published": "2026-03-15 10:00"
+          "title": "Is Microsoft Corporation (MSFT) One of the Most Profitable Blue Chip Stocks to Invest In Now?",
+          "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the most profitable blue chip stocks to invest in now. Microsoft Corporation (NASDAQ:MSFT) announced on March 11 the introduction of new Windows 11 platform updates and tools at GDC this year, designed to deliver smoother gameplay, faster load times, and a solid foundation for Windows ML-enhanced graphics. Microsoft Corporation […]",
+          "published": "2026-03-15 18:36"
         },
         {
-          "title": "Alphabet (GOOGL) and Other Tech Giants Pledge at White House to Power Next-Generation Data Centers",
-          "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 13 unrivaled stocks of the next 10 years, reflecting the company’s pivotal position in the rapidly growing cloud infrastructure and artificial intelligence ecosystem. With the growing demand for AI computing capacity, this position is becoming increasingly apparent. According to a Reuters report on March 4, 2026, Alphabet Inc. (NASDAQ:GOOGL) was […]",
-          "published": "2026-03-15 07:25"
+          "title": "3 Stocks Investors Should Buy Hand Over Fist",
+          "summary": "The market is handing investors some incredible deals right now.",
+          "published": "2026-03-15 18:20"
         },
         {
-          "title": "Wall Street Remains Bullish on Microsoft (MSFT) Amid Azure Supply Headwinds",
-          "summary": "Microsoft Corporation (NASDAQ:MSFT) stands among the 13 unrivaled stocks of the next 10 years. Wall Street’s outlook on Microsoft Corporation (NASDAQ:MSFT) remains very favorable. A median price target of $600 indicates about 47.90% upside, with roughly 92% of covering analysts remaining bullish. Among the most recent analyst updates, Stifel stood out for raising concerns about […]",
+          "title": "My Top 2 Mega-Cap Stocks to Buy After Microsoft's Latest Pullback",
+          "summary": "These stocks are cheap given their AI-related growth prospects.",
+          "published": "2026-03-15 15:25"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "metrics": {
+        "symbol": "AVGO",
+        "price": 322.1600036621094,
+        "momentum_1m": -0.060100377863805204,
+        "volume_ratio": 1.312758623981252,
+        "macd_hist": 0.8784311420465738,
+        "atr": 14.522864205496651,
+        "score": 24.62
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "Broadcom推出先進光學晶片，獲得市場高度期待。",
+        "long_term_view": "強勁的AI晶片銷售預測與分析師看好，長期成長穩健。",
+        "risks": [
+          "產品研發風險",
+          "市場波動影響股價"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Broadcom Inc. (AVGO) Announces the Availability of the Taurus™ BCM83640",
+          "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of the most profitable blue chip stocks to invest in now. Broadcom Inc. (NASDAQ:AVGO) announced on March 11 the availability of the Taurus™ BCM83640, its 3nm 400G/lane optical PAM-4 DSP, optimized for 1.6T transceiver solutions with unprecedented bandwidth density and efficiency. It stated that the device features 400G/lane serial optical […]",
+          "published": "2026-03-15 18:36"
+        },
+        {
+          "title": "Meta Platforms Just Unveiled Its New AI Chips. Should Nvidia Investors Be Worried?",
+          "summary": "Meta introduced four new self-designed AI chips last week, in collaboration with Broadcom.",
+          "published": "2026-03-15 11:20"
+        },
+        {
+          "title": "Strong Wall Street Sentiment on Broadcom (AVGO) Amid $100+ Billion AI Chip Sales Forecast",
+          "summary": "With strong Wall Street confidence, Broadcom Inc. (NASDAQ:AVGO) is one of the 13 unrivaled stocks of the next 10 years. With a median price target of $470, which suggests a potential upside of over 35.90%, about 96% of covering analysts are positive on the semiconductor giant. Notwithstanding this confidence, the stock’s recent performance remains inconsistent […]",
           "published": "2026-03-15 07:25"
         }
       ]
@@ -722,77 +762,37 @@
         "symbol": "META",
         "price": 613.7100219726562,
         "momentum_1m": -0.0822204313927478,
-        "volume_ratio": 1.5478085678781188,
+        "volume_ratio": 1.5629715920433955,
         "macd_hist": -2.741525914903589,
         "atr": 18.464996337890625,
-        "score": 20.34
+        "score": 20.57
       },
       "analysis": {
-        "sentiment": "積極",
-        "short_term_view": "市場對META收購Moltbook後的前景持強烈正面看法，股價有望上漲約29%。",
-        "long_term_view": "META致力於將人工智慧作為長期平台策略核心，具備未來十年持續成長的潛力。",
+        "sentiment": "消極",
+        "short_term_view": "Meta面臨大規模裁員與AI技術表現不佳的挑戰。",
+        "long_term_view": "需克服技術落後與組織調整風險，長期前景不明。",
         "risks": [
-          "全球經濟與地緣政治不確定性可能影響股市表現",
-          "人工智慧技術競爭激烈，可能影響META的市場地位"
+          "裁員影響士氣與執行力",
+          "AI產品競爭力不足"
         ],
-        "action_label": "hold",
-        "confidence": 85
-      },
-      "news": [
-        {
-          "title": "Alphabet (GOOGL) and Other Tech Giants Pledge at White House to Power Next-Generation Data Centers",
-          "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 13 unrivaled stocks of the next 10 years, reflecting the company’s pivotal position in the rapidly growing cloud infrastructure and artificial intelligence ecosystem. With the growing demand for AI computing capacity, this position is becoming increasingly apparent. According to a Reuters report on March 4, 2026, Alphabet Inc. (NASDAQ:GOOGL) was […]",
-          "published": "2026-03-15 07:25"
-        },
-        {
-          "title": "Strong Analyst Sentiment on Meta (META) Post Moltbook Acquisition",
-          "summary": "Due to its efforts to prioritize artificial intelligence in its long-term platform strategy, Meta Platforms, Inc. (NASDAQ:META) is one of the 13 unrivaled stocks of the next 10 years. Wall Street sentiment toward Meta Platforms, Inc. (NASDAQ:META) remains largely favorable. With a consensus price target of $852.50, which suggests about 29.43% upside, over 90% of […]",
-          "published": "2026-03-15 07:25"
-        },
-        {
-          "title": "Dow Jones Futures: Oil Prices, Iran War Drive Stocks Lower; Nvidia GTC, Micron Earnings Due",
-          "summary": "The stock market fell for a third straight week, breaking or testing key levels, as oil prices soared amid the Iran war. Nvidia GTC and Micron earnings loom.",
-          "published": "2026-03-15 02:52"
-        }
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "metrics": {
-        "symbol": "AVGO",
-        "price": 322.1600036621094,
-        "momentum_1m": -0.060100377863805204,
-        "volume_ratio": 0.9880718514130167,
-        "macd_hist": 0.8784311420465738,
-        "atr": 14.522864205496651,
-        "score": 19.75
-      },
-      "analysis": {
-        "sentiment": "積極",
-        "short_term_view": "AVGO在AI晶片銷售預期強勁下，短期內股價有望持續上升。",
-        "long_term_view": "Broadcom被視為未來十年內表現優異的半導體龍頭，具備長期成長潛力。",
-        "risks": [
-          "股價近期表現不穩定",
-          "半導體市場競爭激烈及技術變化風險"
-        ],
-        "action_label": "hold",
+        "action_label": "review",
         "confidence": 0
       },
       "news": [
         {
-          "title": "Strong Wall Street Sentiment on Broadcom (AVGO) Amid $100+ Billion AI Chip Sales Forecast",
-          "summary": "With strong Wall Street confidence, Broadcom Inc. (NASDAQ:AVGO) is one of the 13 unrivaled stocks of the next 10 years. With a median price target of $470, which suggests a potential upside of over 35.90%, about 96% of covering analysts are positive on the semiconductor giant. Notwithstanding this confidence, the stock’s recent performance remains inconsistent […]",
-          "published": "2026-03-15 07:25"
+          "title": "Meta weighs drastic workforce decision after $135 billion guide",
+          "summary": "Meta Platforms (META) is apparently weighing a sweeping workforce shake-up, according to a scathing new report. According to a Seeking Alpha report citing Reuters, Meta executives are exploring layoffs that could affect 20% or more of the company’s workforce, though the plans have not been ...",
+          "published": "2026-03-15 19:50"
         },
         {
-          "title": "1 Unstoppable Stock To Buy Right Now Before It Soars 91% to Join Nvidia, Apple, Alphabet, and Microsoft in the $3 Trillion Club",
-          "summary": "Coming off a fantastic 2025, this semiconductor and data center specialist kicked off 2026 with a bang.",
-          "published": "2026-03-15 07:22"
+          "title": "Meta May Delay 'Avocado' As Tech Underwhelms In Tests Against Google Gemini And Anthropic AI Models: Report",
+          "summary": "Meta Platforms, Inc.'s upcoming foundational AI model, code-named \"Avocado,\" has reportedly underperformed compared with systems from competitors during internal evaluations. Meta's ‘Avocado' AI Model Reportedly Falls Short In Internal Tests Internal tests showed \"Avocado\" is lagging behind newer models from companies such as Alphabet Inc.'s Google and Anthropic, the New York Times reported, citing people familiar with the matter. The model is designed to power future chatbots, coding assistants",
+          "published": "2026-03-15 19:31"
         },
         {
-          "title": "The Best Stocks to Invest $1,000 In Right Now -- and One of Them Is Nvidia",
-          "summary": "These two companies have averaged annual gains of more than 50% over the past five years -- and they're still growing.",
-          "published": "2026-03-15 00:35"
+          "title": "Dow Jones Futures Due, Oil Prices Eye $100 Amid Iran War; Nvidia GTC, Micron Earnings Ahead",
+          "summary": "The stock market is close to breaking as the Iran war pushes oil prices toward $100. Nvidia GTC, Micron earnings loom.",
+          "published": "2026-03-15 19:54"
         }
       ]
     },
@@ -802,37 +802,37 @@
         "symbol": "AMZN",
         "price": 207.6699981689453,
         "momentum_1m": 0.01759112262681457,
-        "volume_ratio": 0.6915809114256679,
+        "volume_ratio": 0.7200502847653969,
         "macd_hist": 0.8028673797695296,
         "atr": 5.623571123395648,
-        "score": 17.41
+        "score": 17.84
       },
       "analysis": {
-        "sentiment": "中性",
-        "short_term_view": "亞馬遜近期股價有所回調，面臨來自其他零售商的競爭壓力。",
-        "long_term_view": "亞馬遜作為電商巨頭，仍具備長期成長潛力，但需關注市場競爭與行業變化。",
+        "sentiment": "積極",
+        "short_term_view": "亞馬遜擴展數位健康與物流服務，提升營運效率。",
+        "long_term_view": "多元業務布局與AI應用推動長期成長。",
         "risks": [
-          "其他零售商電商增長速度超過亞馬遜",
-          "市場競爭加劇可能影響亞馬遜的市場份額"
+          "勞資糾紛風險",
+          "市場競爭激烈"
         ],
-        "action_label": "review",
-        "confidence": 70
+        "action_label": "hold",
+        "confidence": 0
       },
       "news": [
         {
-          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
-          "summary": "This high-flying chip stock is poised for another big year.",
-          "published": "2026-03-15 10:00"
+          "title": "Why Amazon.com (AMZN) is One of the Most Profitable Blue Chip Stocks to Invest In Now",
+          "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the most profitable blue chip stocks to invest in now. Amazon.com, Inc. (NASDAQ:AMZN) reported on March 9 that Amazon Pharmacy announced expanded access to the new Zepbound® KwikPen® through its services. Amazon Pharmacy is a full-service digital pharmacy that delivers medications directly to their houses, and is expanding access […]",
+          "published": "2026-03-15 18:36"
         },
         {
-          "title": "Top 2 Retail Growth Stocks to Buy After Amazon's Latest Sell-Off",
-          "summary": "These retailers are reporting faster e-commerce growth than Amazon.",
-          "published": "2026-03-15 08:45"
+          "title": "2 Monster Energy Stocks to Hold for the Next 10 Years",
+          "summary": "Vistra and Constellation Energy provide the green power to enable hyperscalers to grow.",
+          "published": "2026-03-15 16:12"
         },
         {
-          "title": "Best Growth Stock to Buy Right Now: Amazon vs. MercadoLibre",
-          "summary": "Investors need to consider several variables when analyzing these two e-commerce giants.",
-          "published": "2026-03-15 07:35"
+          "title": "Amazon Deepens Digital Health Push As Logistics Deal Supports Valuation",
+          "summary": "Amazon.com (NasdaqGS:AMZN) is rolling out its AI powered healthcare assistant to all customers, expanding access beyond existing One Medical members. Air Transport International's pilot union has reached a tentative labor agreement with management after five years of talks, affecting a key part of Amazon's air cargo network. These developments touch both Amazon's digital health ambitions and the operational reliability of its logistics operations. At a share price of $207.67, Amazon.com...",
+          "published": "2026-03-15 15:07"
         }
       ]
     }

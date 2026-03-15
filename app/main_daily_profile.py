@@ -7,7 +7,7 @@ from app.config import WATCHLIST_CSV, HOLDINGS_CSV, TOP_OPPORTUNITIES_N
 
 from app.market_data import get_stock_metrics
 from app.news import fetch_yahoo_news
-from app.llm_analysis import analyze_stock_news
+from app.llm_analysis import analyze_stock_news,analyze_stock_news_batch
 from app.models import Opportunity
 from app.portfolio import load_holdings
 from app.report import save_opportunities_csv, save_report_json, save_full_markdown_report, signal_bucket, why_flagged
@@ -40,18 +40,23 @@ def load_watchlist():
     return list(dict.fromkeys(symbols))
 
 
-def build_holding_rows(positions):
+def build_holding_rows_batch(positions):
+    """
+    批次處理 holdings：
+    - 先對每檔抓 metrics + news
+    - 再一次呼叫 analyze_stock_news_batch 拿分析結果
+    """
     rows = []
+    symbol_news_pairs = []
+
+    # 先抓 metrics + news，暫存下來
     for p in positions:
         metrics = get_stock_metrics(p.symbol)
         if not metrics:
             continue
 
         news = fetch_yahoo_news(p.symbol, limit=3)
-        analysis = analyze_stock_news(p.symbol, news)
-
-        pnl_pct = ((metrics.price - p.avg_price) / p.avg_price) if p.avg_price else 0.0
-        pnl_value = (metrics.price - p.avg_price) * p.shares
+        symbol_news_pairs.append((p.symbol, news))
 
         rows.append({
             "symbol": p.symbol,
@@ -63,36 +68,85 @@ def build_holding_rows(positions):
             "notes": p.notes,
             "current_price": metrics.price,
             "score": metrics.score,
-            "pnl_pct": pnl_pct,
-            "pnl_value": pnl_value,
+            # 先暫存 metrics / news，稍後填 analysis
             "metrics": metrics,
-            "analysis": analysis,
             "news": news,
         })
+
+    # 批次呼叫 LLM 分析
+    analysis_map = analyze_stock_news_batch(symbol_news_pairs)
+
+    # 填回 pnl/analysis 等欄位
+    for h in rows:
+        metrics = h["metrics"]
+        analysis = analysis_map.get(h["symbol"], None)
+
+        if analysis is None:
+            # 保險 fallback：用單檔版跑一次（理論上不太會碰到）
+            analysis = analyze_stock_news(h["symbol"], h["news"])
+
+        pnl_pct = (
+            (metrics.price - h["avg_price"]) / h["avg_price"]
+            if h["avg_price"] else 0.0
+        )
+        pnl_value = (metrics.price - h["avg_price"]) * h["shares"]
+
+        h["pnl_pct"] = pnl_pct
+        h["pnl_value"] = pnl_value
+        h["analysis"] = analysis
+
     return rows
 
 
+
 def build_opportunities(symbols):
-    opportunities = []
+    # 先抓 metrics + news，暫存
+    rows = []
+    symbol_news_pairs = []
+
     for symbol in symbols:
         metrics = get_stock_metrics(symbol)
         if not metrics:
             continue
 
         news = fetch_yahoo_news(symbol, limit=3)
-        analysis = analyze_stock_news(symbol, news)
+        symbol_news_pairs.append((symbol, news))
+
+        rows.append(
+            {
+                "symbol": symbol,
+                "metrics": metrics,
+                "news": news,
+            }
+        )
+
+    # 批次呼叫 LLM 分析
+    analysis_map = analyze_stock_news_batch(symbol_news_pairs)
+
+    opportunities = []
+    for row in rows:
+        symbol = row["symbol"]
+        metrics = row["metrics"]
+        news = row["news"]
+
+        analysis = analysis_map.get(symbol)
+        if analysis is None:
+            # 保險 fallback：若 batch 結果漏掉某檔，就退回單檔版
+            analysis = analyze_stock_news(symbol, news)
 
         opportunities.append(
             Opportunity(
                 symbol=symbol,
                 metrics=metrics,
                 news=news,
-                analysis=analysis
+                analysis=analysis,
             )
         )
 
+    # 排序 + 取前 N 名
     opportunities.sort(key=lambda x: x.metrics.score, reverse=True)
     return opportunities[:TOP_OPPORTUNITIES_N]
+
 
 
 def build_summary(holding_rows, opportunities):
@@ -169,7 +223,7 @@ def main():
 
     print("watchlist_only:", watchlist_only)
 
-    holding_rows = build_holding_rows(positions)
+    holding_rows = build_holding_rows_batch(positions)
     opportunities = build_opportunities(watchlist_only)
 
     print("holding_rows count:", len(holding_rows))
