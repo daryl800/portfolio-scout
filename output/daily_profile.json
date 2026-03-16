@@ -23,16 +23,21 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "股價受股拆和油價波動影響，短期波動存在。",
-        "long_term_view": "蘋果持續擴大市值，長期仍具吸引力。",
+        "short_term_view": "蘋果持續受關注，股價分割使股票更親民。",
+        "long_term_view": "蘋果市值龐大，長期需求穩定，具成長潛力。",
         "risks": [
-          "油價上漲可能影響成本與市場情緒",
-          "市場整體波動風險"
+          "市場整體波動風險",
+          "競爭加劇風險"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "The Most Overlooked Artificial Intelligence (AI) Stocks in the \"Magnificent Seven\" for 2026",
+          "summary": "Amazon and Microsoft are two huge players in the AI realm that don't get enough credit.",
+          "published": "2026-03-15 22:45"
+        },
         {
           "title": "Did Warren Buffett Know Something Wall Street Doesn't? The Former Berkshire Hathaway CEO Left a $373 Billion Warning for the Stock Market.",
           "summary": "Warren Buffett left Berkshire Hathaway with a massive war chest and spent his final years as CEO selling stocks while Wall Street celebrated record highs.",
@@ -42,11 +47,6 @@
           "title": "Apple's stock split history: Everything you need to know",
           "summary": "Apple’s market capitalization is in the trillions of dollars. As demand for its shares has increased over the past few decades, the company has chosen to split its shares to make the stock more affordable for many individual investors. Without such stock splits, Apple would have been out of reach ...",
           "published": "2026-03-15 15:01"
-        },
-        {
-          "title": "Why surging oil prices should matter even if you own Apple, Nvidia, and Microsoft",
-          "summary": "Connecting the dots on oil prices will serve you well.",
-          "published": "2026-03-15 12:30"
         }
       ]
     },
@@ -73,8 +73,8 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "市場可能面臨2026年中期選舉年股市波動與崩盤風險。",
-        "long_term_view": "適合用於退休組合補充，提供防禦性配置。",
+        "short_term_view": "面臨2026年可能的市場崩盤風險，建議防禦性配置。",
+        "long_term_view": "適合作為退休組合的穩健防禦工具。",
         "risks": [
           "市場崩盤風險",
           "退休金不足風險"
@@ -123,11 +123,11 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "美國房貸利率下降提振房地產估值與股息吸引力。",
-        "long_term_view": "商業房地產貸款到期風險需關注，影響未來回報。",
+        "short_term_view": "美國抵押貸款利率下降提振房地產估值和股息吸引力。",
+        "long_term_view": "商業地產貸款到期風險需關注，未來表現依賴再融資環境。",
         "risks": [
-          "商業房地產貸款到期壓力",
-          "利率變動風險"
+          "利率變動風險",
+          "商業地產貸款到期風險"
         ],
         "action_label": "review",
         "confidence": 0
@@ -172,12 +172,12 @@
         "score": 31.74
       },
       "analysis": {
-        "sentiment": "積極",
-        "short_term_view": "中東緊張局勢可能帶來短期波動。",
-        "long_term_view": "長期持有有望受益於美國經濟與出口動能。",
+        "sentiment": "中性",
+        "short_term_view": "中東緊張局勢可能造成短期波動。",
+        "long_term_view": "適合長期持有，具穩健成長潛力。",
         "risks": [
           "地緣政治風險",
-          "市場短期波動"
+          "市場波動風險"
         ],
         "action_label": "hold",
         "confidence": 0
@@ -223,11 +223,11 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "市場波動與油價飆升可能帶來結構性風險。",
-        "long_term_view": "均衡權重ETF可避免科技股過度集中風險。",
+        "short_term_view": "市場波動，投資者可考慮等權重ETF以避免過度集中。",
+        "long_term_view": "科技股主導風險需注意，油價大幅上漲可能帶來系統性衝擊。",
         "risks": [
-          "油價劇烈波動",
-          "科技股集中風險"
+          "科技股集中風險",
+          "油價劇烈波動風險"
         ],
         "action_label": "watch",
         "confidence": 0
@@ -273,11 +273,11 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "醫療保健股近期表現疲弱，指數下跌。",
-        "long_term_view": "醫療行業基本面穩健，長期仍具防禦性價值。",
+        "short_term_view": "醫療保健類股近期有所回落。",
+        "long_term_view": "醫療保健行業具防禦性，長期仍具吸引力。",
         "risks": [
-          "短期股價波動",
-          "行業政策變動風險"
+          "市場短期調整風險",
+          "政策變動風險"
         ],
         "action_label": "hold",
         "confidence": 0
@@ -323,13 +323,13 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "國際ETF提供穩定股息，吸引投資者。",
-        "long_term_view": "與其他國際ETF相比，價值導向策略存在競爭。",
+        "short_term_view": "國際ETF提供穩定股息收益，投資者可考慮。",
+        "long_term_view": "國際市場多元化有助分散風險，長期表現具潛力。",
         "risks": [
-          "國際市場波動",
-          "策略競爭風險"
+          "國際市場波動風險",
+          "匯率風險"
         ],
-        "action_label": "review",
+        "action_label": "hold",
         "confidence": 0
       },
       "news": [
@@ -372,31 +372,31 @@
         "score": 12.6
       },
       "analysis": {
-        "sentiment": "中性",
-        "short_term_view": "Meta AI模型表現不佳，Google持續擴大AI安全布局。",
-        "long_term_view": "Google在AI及雲安全領域持續投資，具長期成長潛力。",
+        "sentiment": "積極",
+        "short_term_view": "谷歌在AI領域持續擴展，獲得重要合作與資金支持。",
+        "long_term_view": "AI轉型帶來長期成長動能，競爭優勢明顯。",
         "risks": [
-          "AI技術競爭激烈",
-          "收購整合風險"
+          "競爭加劇風險",
+          "技術發展不確定性"
         ],
-        "action_label": "hold",
+        "action_label": "review",
         "confidence": 0
       },
       "news": [
         {
+          "title": "The Most Overlooked Artificial Intelligence (AI) Stocks in the \"Magnificent Seven\" for 2026",
+          "summary": "Amazon and Microsoft are two huge players in the AI realm that don't get enough credit.",
+          "published": "2026-03-15 22:45"
+        },
+        {
+          "title": "TeraWulf (WULF) Is Up 6.7% After Pivoting From Bitcoin Mining To Google‑Backed AI Leases",
+          "summary": "TeraWulf has recently accelerated its shift away from bitcoin mining toward high‑performance computing by securing long-term, Google credit‑enhanced leases covering 522 megawatts of data center capacity and arranging US$6.50 billion in financings to build out multiple AI-focused sites in states including Kentucky and Maryland. This transformation, supported by US$12.80 billion of contracted revenue and new institutional investors such as Covalis (Gibraltar) Ltd, is recasting TeraWulf as a...",
+          "published": "2026-03-15 22:08"
+        },
+        {
           "title": "Meta May Delay 'Avocado' As Tech Underwhelms In Tests Against Google Gemini And Anthropic AI Models: Report",
           "summary": "Meta Platforms, Inc.'s upcoming foundational AI model, code-named \"Avocado,\" has reportedly underperformed compared with systems from competitors during internal evaluations. Meta's ‘Avocado' AI Model Reportedly Falls Short In Internal Tests Internal tests showed \"Avocado\" is lagging behind newer models from companies such as Alphabet Inc.'s Google and Anthropic, the New York Times reported, citing people familiar with the matter. The model is designed to power future chatbots, coding assistants",
           "published": "2026-03-15 19:31"
-        },
-        {
-          "title": "Alphabet Inc. (GOOG) Announces Completion of its Acquisition of Wiz",
-          "summary": "Alphabet Inc. (NASDAQ:GOOG) is one of the most profitable blue chip stocks to invest in now. Alphabet Inc. (NASDAQ:GOOG) announced the completion of its acquisition of Wiz on March 11. Headquartered in New York, Wiz is a leading cloud and AI security platform that will join Google Cloud while maintaining its brand. Management stated that […]",
-          "published": "2026-03-15 18:36"
-        },
-        {
-          "title": "Wiz investor unpacks Google’s $32B acquisition",
-          "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
-          "published": "2026-03-15 15:30"
         }
       ]
     },
@@ -422,17 +422,22 @@
         "score": 4.01
       },
       "analysis": {
-        "sentiment": "中性",
-        "short_term_view": "市場關注美聯儲利率決策及AI產業動態。",
-        "long_term_view": "阿里巴巴及相關企業持續投入AI，長期成長可期。",
+        "sentiment": "積極",
+        "short_term_view": "阿里巴巴積極推動AI應用，擴大消費者市場。",
+        "long_term_view": "AI及新應用推動業務轉型，具長期成長潛力。",
         "risks": [
-          "政策風險",
-          "市場波動"
+          "監管風險",
+          "市場競爭風險"
         ],
-        "action_label": "watch",
+        "action_label": "review",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "Alibaba Drops New App To Dominate China's Agentic AI Craze",
+          "summary": "Alibaba Group Holding Ltd. is expanding its push into consumer artificial intelligence tools with a new mobile app designed to make AI assistants easier for everyday users to access and use. Alibaba Launches OpenClaw App For Everyday Users Alibaba has introduced a new mobile app called “JVS Claw” that helps users quickly set up and use OpenClaw, an AI assistant that handles everyday tasks. The app allows iPhone and Android users to instruct AI agents to complete simple real-world tasks even if t",
+          "published": "2026-03-15 21:31"
+        },
         {
           "title": "Nvidia GTC, Lululemon, Micron, Fed Rates, Home Sales, and More to Watch This Week",
           "summary": "The Fed will announce its rate decision Wednesday, and data on pending home sales will come Thursday. Dollar Tree, Oklo, Alibaba, and a handful of others will also report earnings.",
@@ -442,11 +447,6 @@
           "title": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching",
           "summary": "A crucial week for the market includes a Fed meeting, the Nvidia GTC conference and Micron earnings, for starters.",
           "published": "2026-03-14 12:37"
-        },
-        {
-          "title": "China AI Startup Moonshot Snags Funds at $18 Billion Valuation",
-          "summary": "It’s unclear who is participating in the latest round, but Moonshot backers including Alibaba Group Holding Ltd., Tencent Holdings Ltd. and 5Y Capital increased their bets at the $10 billion level, Bloomberg News reported last month.",
-          "published": "2026-03-14 09:35"
         }
       ]
     },
@@ -473,12 +473,11 @@
       },
       "analysis": {
         "sentiment": "消極",
-        "short_term_view": "小米股價大幅下滑，空頭獲利顯著。",
-        "long_term_view": "與中國汽車企業合作探索歐洲市場，存在不確定性。",
+        "short_term_view": "小米股價大幅下滑，短期面臨成本上升與銷量放緩壓力。",
+        "long_term_view": "歐洲業務重組及中國合作帶來不確定性。",
         "risks": [
-          "成本上升",
-          "銷量放緩",
-          "合作不確定性"
+          "成本上升風險",
+          "市場需求減弱風險"
         ],
         "action_label": "avoid",
         "confidence": 0
@@ -523,11 +522,11 @@
         "score": 15.7
       },
       "analysis": {
-        "sentiment": "積極",
-        "short_term_view": "鋁擠壓市場需求增長，海外投資擴大影響力。",
+        "sentiment": "中性",
+        "short_term_view": "鋁擠壓市場需求增長，海外投資擴大公司影響力。",
         "long_term_view": "全球鋁產業鏈地位提升，長期成長可期。",
         "risks": [
-          "市場波動",
+          "原材料價格波動",
           "國際貿易風險"
         ],
         "action_label": "hold",
@@ -574,13 +573,13 @@
       },
       "analysis": {
         "sentiment": "積極",
-        "short_term_view": "華虹半導體營收創新高，股價近期表現強勁。",
-        "long_term_view": "半導體行業整合加速，具長期成長潛力。",
+        "short_term_view": "華虹半導體近期股價表現強勁，吸引投資者關注。",
+        "long_term_view": "戰略擴張與行業整合推動長期成長。",
         "risks": [
-          "行業競爭",
-          "成本上升"
+          "行業競爭風險",
+          "成本上升風險"
         ],
-        "action_label": "hold",
+        "action_label": "review",
         "confidence": 0
       },
       "news": [
@@ -624,8 +623,8 @@
       },
       "analysis": {
         "sentiment": "中性",
-        "short_term_view": "無重要新聞，短期無明顯變化。",
-        "long_term_view": "需持續關注後續消息與市場動態。",
+        "short_term_view": "無重要新聞，市場關注度較低。",
+        "long_term_view": "需持續觀察後續動態以評估投資價值。",
         "risks": [
           "資訊不足風險"
         ],
@@ -649,16 +648,21 @@
       },
       "analysis": {
         "sentiment": "積極",
-        "short_term_view": "Palantir深化與NVIDIA及多家企業的AI合作，擴展市場應用。",
-        "long_term_view": "在政府及工業AI領域扮演關鍵角色，長期發展穩健。",
+        "short_term_view": "Palantir深化與Nvidia及多家企業合作，強化AI及國防應用。",
+        "long_term_view": "Palantir在政府及工業AI平台具獨特地位，長期發展看好。",
         "risks": [
-          "合作成效不及預期",
-          "政策與市場需求變動"
+          "政府合約依賴",
+          "技術競爭風險"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "Best Artificial Intelligence (AI) Stock to Buy Now: Nvidia vs. Palantir",
+          "summary": "Both stocks are among the most popular AI picks.",
+          "published": "2026-03-15 21:55"
+        },
         {
           "title": "NVIDIA GTC 2026 AI Platforms And Partnerships Reshape Investor Expectations",
           "summary": "NVIDIA (NasdaqGS:NVDA) used GTC 2026 to introduce enterprise ready AI platforms and expand its role across cloud, sovereign and open source AI infrastructure. The company previewed NeMo Studio running on NVIDIA Run:ai, targeting scaled, quota controlled, multi tenant GPU clusters for enterprise AI development. NVIDIA announced deeper alliances, including a full stack sovereign AI architecture with Palantir for regulated sectors and a multi billion partnership with Nebius Group focused on...",
@@ -668,11 +672,6 @@
           "title": "Palantir Partnerships Deepen Role In Mission Critical AI Operations",
           "summary": "Palantir Technologies (NasdaqGS:PLTR) announced new partnerships across defense, aerospace, and AI infrastructure. The company introduced an AI OS reference architecture with NVIDIA aimed at sovereign AI opportunities. Alliances with GE Aerospace, Centrus Energy, Ondas, and World View extend Palantir’s AI into operational settings such as aviation, uranium enrichment, and multi-domain intelligence. Palantir, known for its data and AI platforms for government and industrial clients, is...",
           "published": "2026-03-15 03:09"
-        },
-        {
-          "title": "The Only 2 Artificial Intelligence (AI) Stocks You Need to Hold Through 2035",
-          "summary": "These companies are playing central roles in two important niches of the AI industry.",
-          "published": "2026-03-15 00:25"
         }
       ]
     },
@@ -689,16 +688,21 @@
       },
       "analysis": {
         "sentiment": "積極",
-        "short_term_view": "微軟推出Windows 11新平台更新，強化遊戲體驗與圖形性能。",
-        "long_term_view": "微軟作為藍籌股，具備穩定獲利與AI成長潛力。",
+        "short_term_view": "微軟推出Windows 11新更新及AI強化圖形工具，提升遊戲體驗與效能。",
+        "long_term_view": "作為AI領域重要玩家，微軟具長期成長潛力與穩健獲利能力。",
         "risks": [
-          "市場波動可能影響股價短期表現",
-          "競爭激烈的科技產業環境"
+          "市場競爭激烈",
+          "技術更新風險"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "The Most Overlooked Artificial Intelligence (AI) Stocks in the \"Magnificent Seven\" for 2026",
+          "summary": "Amazon and Microsoft are two huge players in the AI realm that don't get enough credit.",
+          "published": "2026-03-15 22:45"
+        },
         {
           "title": "Is Microsoft Corporation (MSFT) One of the Most Profitable Blue Chip Stocks to Invest In Now?",
           "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the most profitable blue chip stocks to invest in now. Microsoft Corporation (NASDAQ:MSFT) announced on March 11 the introduction of new Windows 11 platform updates and tools at GDC this year, designed to deliver smoother gameplay, faster load times, and a solid foundation for Windows ML-enhanced graphics. Microsoft Corporation […]",
@@ -708,11 +712,6 @@
           "title": "3 Stocks Investors Should Buy Hand Over Fist",
           "summary": "The market is handing investors some incredible deals right now.",
           "published": "2026-03-15 18:20"
-        },
-        {
-          "title": "My Top 2 Mega-Cap Stocks to Buy After Microsoft's Latest Pullback",
-          "summary": "These stocks are cheap given their AI-related growth prospects.",
-          "published": "2026-03-15 15:25"
         }
       ]
     },
@@ -729,16 +728,21 @@
       },
       "analysis": {
         "sentiment": "積極",
-        "short_term_view": "Broadcom推出先進光學晶片，獲得市場高度期待。",
-        "long_term_view": "強勁的AI晶片銷售預測與分析師看好，長期成長穩健。",
+        "short_term_view": "Broadcom推出先進光學晶片，強化市場競爭力。",
+        "long_term_view": "Broadcom與Meta合作AI晶片，具長期成長動能。",
         "risks": [
-          "產品研發風險",
-          "市場波動影響股價"
+          "技術開發風險",
+          "市場需求波動"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "2 No-Brainer AI Stocks to Buy Right Now",
+          "summary": "Broadcom and Meta Platforms look like two solid AI stocks to buy right now.",
+          "published": "2026-03-15 20:20"
+        },
         {
           "title": "Broadcom Inc. (AVGO) Announces the Availability of the Taurus™ BCM83640",
           "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of the most profitable blue chip stocks to invest in now. Broadcom Inc. (NASDAQ:AVGO) announced on March 11 the availability of the Taurus™ BCM83640, its 3nm 400G/lane optical PAM-4 DSP, optimized for 1.6T transceiver solutions with unprecedented bandwidth density and efficiency. It stated that the device features 400G/lane serial optical […]",
@@ -748,11 +752,6 @@
           "title": "Meta Platforms Just Unveiled Its New AI Chips. Should Nvidia Investors Be Worried?",
           "summary": "Meta introduced four new self-designed AI chips last week, in collaboration with Broadcom.",
           "published": "2026-03-15 11:20"
-        },
-        {
-          "title": "Strong Wall Street Sentiment on Broadcom (AVGO) Amid $100+ Billion AI Chip Sales Forecast",
-          "summary": "With strong Wall Street confidence, Broadcom Inc. (NASDAQ:AVGO) is one of the 13 unrivaled stocks of the next 10 years. With a median price target of $470, which suggests a potential upside of over 35.90%, about 96% of covering analysts are positive on the semiconductor giant. Notwithstanding this confidence, the stock’s recent performance remains inconsistent […]",
-          "published": "2026-03-15 07:25"
         }
       ]
     },
@@ -769,30 +768,30 @@
       },
       "analysis": {
         "sentiment": "消極",
-        "short_term_view": "Meta面臨大規模裁員與AI技術表現不佳的挑戰。",
-        "long_term_view": "需克服技術落後與組織調整風險，長期前景不明。",
+        "short_term_view": "Meta考慮大規模裁員，反映公司面臨挑戰。",
+        "long_term_view": "儘管AI投入持續，Meta需克服組織與市場壓力以維持成長。",
         "risks": [
-          "裁員影響士氣與執行力",
-          "AI產品競爭力不足"
+          "裁員影響士氣",
+          "市場競爭加劇"
         ],
         "action_label": "review",
         "confidence": 0
       },
       "news": [
         {
+          "title": "Dow Jones Futures Rise As Oil Prices Top $100; Nvidia GTC, Micron Earnings Ahead",
+          "summary": "The stock market is close to breaking as the Iran war pushes oil prices above $100. Nvidia GTC, Micron earnings loom.",
+          "published": "2026-03-15 22:53"
+        },
+        {
+          "title": "The Most Overlooked Artificial Intelligence (AI) Stocks in the \"Magnificent Seven\" for 2026",
+          "summary": "Amazon and Microsoft are two huge players in the AI realm that don't get enough credit.",
+          "published": "2026-03-15 22:45"
+        },
+        {
           "title": "Meta weighs drastic workforce decision after $135 billion guide",
           "summary": "Meta Platforms (META) is apparently weighing a sweeping workforce shake-up, according to a scathing new report. According to a Seeking Alpha report citing Reuters, Meta executives are exploring layoffs that could affect 20% or more of the company’s workforce, though the plans have not been ...",
           "published": "2026-03-15 19:50"
-        },
-        {
-          "title": "Meta May Delay 'Avocado' As Tech Underwhelms In Tests Against Google Gemini And Anthropic AI Models: Report",
-          "summary": "Meta Platforms, Inc.'s upcoming foundational AI model, code-named \"Avocado,\" has reportedly underperformed compared with systems from competitors during internal evaluations. Meta's ‘Avocado' AI Model Reportedly Falls Short In Internal Tests Internal tests showed \"Avocado\" is lagging behind newer models from companies such as Alphabet Inc.'s Google and Anthropic, the New York Times reported, citing people familiar with the matter. The model is designed to power future chatbots, coding assistants",
-          "published": "2026-03-15 19:31"
-        },
-        {
-          "title": "Dow Jones Futures Due, Oil Prices Eye $100 Amid Iran War; Nvidia GTC, Micron Earnings Ahead",
-          "summary": "The stock market is close to breaking as the Iran war pushes oil prices toward $100. Nvidia GTC, Micron earnings loom.",
-          "published": "2026-03-15 19:54"
         }
       ]
     },
@@ -809,16 +808,21 @@
       },
       "analysis": {
         "sentiment": "積極",
-        "short_term_view": "亞馬遜擴展數位健康與物流服務，提升營運效率。",
-        "long_term_view": "多元業務布局與AI應用推動長期成長。",
+        "short_term_view": "亞馬遜擴展數位藥房服務，持續提升獲利能力。",
+        "long_term_view": "亞馬遜在AI及電商領域持續領先，具長期成長潛力。",
         "risks": [
-          "勞資糾紛風險",
+          "監管風險",
           "市場競爭激烈"
         ],
         "action_label": "hold",
         "confidence": 0
       },
       "news": [
+        {
+          "title": "The Most Overlooked Artificial Intelligence (AI) Stocks in the \"Magnificent Seven\" for 2026",
+          "summary": "Amazon and Microsoft are two huge players in the AI realm that don't get enough credit.",
+          "published": "2026-03-15 22:45"
+        },
         {
           "title": "Why Amazon.com (AMZN) is One of the Most Profitable Blue Chip Stocks to Invest In Now",
           "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the most profitable blue chip stocks to invest in now. Amazon.com, Inc. (NASDAQ:AMZN) reported on March 9 that Amazon Pharmacy announced expanded access to the new Zepbound® KwikPen® through its services. Amazon Pharmacy is a full-service digital pharmacy that delivers medications directly to their houses, and is expanding access […]",
@@ -828,11 +832,206 @@
           "title": "2 Monster Energy Stocks to Hold for the Next 10 Years",
           "summary": "Vistra and Constellation Energy provide the green power to enable hyperscalers to grow.",
           "published": "2026-03-15 16:12"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "metrics": {
+        "symbol": "TSM",
+        "price": 338.30999755859375,
+        "momentum_1m": -0.0956454305903951,
+        "volume_ratio": 1.3720900525783732,
+        "macd_hist": -4.6639476173107415,
+        "atr": 13.559380667550224,
+        "score": 17.23
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "台積電AI瓶頸問題仍存在，但整體成長趨勢未破壞。",
+        "long_term_view": "台積電為全球晶圓代工龍頭，長期成長穩健。",
+        "risks": [
+          "技術瓶頸",
+          "地緣政治風險"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "TSMC and the AI Bottleneck: Why the Thesis Is Maturing, Not Breaking",
+          "summary": "Why TSMC's AI Bottleneck Still Holds",
+          "published": "2026-03-15 20:03"
         },
         {
-          "title": "Amazon Deepens Digital Health Push As Logistics Deal Supports Valuation",
-          "summary": "Amazon.com (NasdaqGS:AMZN) is rolling out its AI powered healthcare assistant to all customers, expanding access beyond existing One Medical members. Air Transport International's pilot union has reached a tentative labor agreement with management after five years of talks, affecting a key part of Amazon's air cargo network. These developments touch both Amazon's digital health ambitions and the operational reliability of its logistics operations. At a share price of $207.67, Amazon.com...",
-          "published": "2026-03-15 15:07"
+          "title": "Elon Musk Says Tesla Terafab Project For AI Chips To Launch In A Week",
+          "summary": "Tesla CEO Elon Musk announced Saturday his company's \"Terafab Project\" for in-house artificial intelligence chips will begin on March 21.",
+          "published": "2026-03-15 17:42"
+        },
+        {
+          "title": "Meet the Next Member of the $2 Trillion Club. It's Up 97% in the Past Year, and It Can Still Climb Higher in 2026.",
+          "summary": "This high-flying chip stock is poised for another big year.",
+          "published": "2026-03-15 10:00"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "metrics": {
+        "symbol": "TSLA",
+        "price": 391.20001220703125,
+        "momentum_1m": -0.08655749353816436,
+        "volume_ratio": 1.0002110802147377,
+        "macd_hist": 0.14476597699818416,
+        "atr": 13.437140328543526,
+        "score": 13.13
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "特斯拉與xAI合作推動AI系統，帶來多項成長催化劑。",
+        "long_term_view": "特斯拉在電動車及AI領域持續擴展，具長期成長潛力。",
+        "risks": [
+          "技術整合風險",
+          "市場競爭加劇"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "The Most Overlooked Artificial Intelligence (AI) Stocks in the \"Magnificent Seven\" for 2026",
+          "summary": "Amazon and Microsoft are two huge players in the AI realm that don't get enough credit.",
+          "published": "2026-03-15 22:45"
+        },
+        {
+          "title": "Elon Musk Unmasks Joint Project Between Tesla (TSLA) and xAI, Reuters Reports",
+          "summary": "Tesla, Inc. (NASDAQ:TSLA) is one of the most profitable blue chip stocks to invest in now. On March 11, Reuters reported that Elon Musk unmasked a joint project between Tesla, Inc. (NASDAQ:TSLA) and his artificial intelligence startup xAI, which he called “Macrohard” or “Digital ​Optimus”. Musk stated that it was a system capable ‌of emulating […]",
+          "published": "2026-03-15 19:36"
+        },
+        {
+          "title": "My Top Growth Stock to Buy for 2026 (and It's Not Even Close)",
+          "summary": "This company is getting into AI and has several exciting growth catalysts on the way.",
+          "published": "2026-03-15 18:05"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "metrics": {
+        "symbol": "AMD",
+        "price": 193.38999938964844,
+        "momentum_1m": -0.09453133377804199,
+        "volume_ratio": 0.7781335860742873,
+        "macd_hist": 0.383596182611047,
+        "atr": 9.485712323869977,
+        "score": 11.43
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "AMD在AI加速器市場排名第二，獲得重大合約推動成長。",
+        "long_term_view": "AMD有望挑戰Nvidia地位，長期成長潛力強勁。",
+        "risks": [
+          "市場競爭激烈",
+          "技術研發風險"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "1 Artificial Intelligence (AI) Stock I'd Never Sell",
+          "summary": "After flirting with bankruptcy just over a decade ago, AMD has risen to be the No. 2 company in the AI accelerator market.",
+          "published": "2026-03-15 16:22"
+        },
+        {
+          "title": "Government Drops Sweeping AI Chip Export Rules: Can Nvidia Start Growing Again?",
+          "summary": "Nvidia’s (NASDAQ:NVDA) AI chips remain the hottest commodity in tech, with hyperscalers and enterprises scrambling for every Blackwell and Hopper GPU available. Demand continues to eclipse supply, powering record data-center revenue that has transformed the company into a trillion-dollar powerhouse. Yet Nvidia stock has traded largely sideways for much of the past year amid investor ... Government Drops Sweeping AI Chip Export Rules: Can Nvidia Start Growing Again?",
+          "published": "2026-03-15 15:24"
+        },
+        {
+          "title": "This Artificial Intelligence (AI) Stock Just Landed a Deal Worth Over $100 Billion. Is It a Buy?",
+          "summary": "AMD is making waves as a potential challenger to Nvidia's data center dominance. Here's why it's worth considering for your portfolio.",
+          "published": "2026-03-15 05:25"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "metrics": {
+        "symbol": "NVDA",
+        "price": 180.25,
+        "momentum_1m": -0.05156539276186647,
+        "volume_ratio": 0.8396245272923442,
+        "macd_hist": -0.33915043661776734,
+        "atr": 6.286427089146206,
+        "score": 10.79
+      },
+      "analysis": {
+        "sentiment": "中性",
+        "short_term_view": "油價上漲及地緣政治風險帶來市場波動，Nvidia財報即將公布。",
+        "long_term_view": "Nvidia為AI晶片龍頭，具長期成長動能，但短期股價波動較大。",
+        "risks": [
+          "地緣政治影響",
+          "市場波動風險"
+        ],
+        "action_label": "watch",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "Dow Jones Futures Rise As Oil Prices Top $100; Nvidia GTC, Micron Earnings Ahead",
+          "summary": "The stock market is close to breaking as the Iran war pushes oil prices above $100. Nvidia GTC, Micron earnings loom.",
+          "published": "2026-03-15 22:53"
+        },
+        {
+          "title": "The Most Overlooked Artificial Intelligence (AI) Stocks in the \"Magnificent Seven\" for 2026",
+          "summary": "Amazon and Microsoft are two huge players in the AI realm that don't get enough credit.",
+          "published": "2026-03-15 22:45"
+        },
+        {
+          "title": "Billionaires David Tepper and Michael Platt Sold Nvidia Shares and Bought This AI Stock That's Climbed 40,000% Since its IPO.",
+          "summary": "This company may benefit from the next stage of the AI boom.",
+          "published": "2026-03-15 22:35"
+        }
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "metrics": {
+        "symbol": "ASML",
+        "price": 1345.68994140625,
+        "momentum_1m": -0.06264849799089016,
+        "volume_ratio": 0.7895940090412192,
+        "macd_hist": -14.222943370733095,
+        "atr": 58.075020926339285,
+        "score": 9.65
+      },
+      "analysis": {
+        "sentiment": "積極",
+        "short_term_view": "ASML獲分析師看好，持續技術突破保持領先。",
+        "long_term_view": "ASML在半導體光刻設備市場具壟斷地位，長期成長確定。",
+        "risks": [
+          "中國競爭加劇",
+          "技術研發風險"
+        ],
+        "action_label": "hold",
+        "confidence": 0
+      },
+      "news": [
+        {
+          "title": "TD Cowen Reiterates “Buy” Rating on ASML (ASML) With $1,500 PT",
+          "summary": "ASML Holding N.V. (NASDAQ:ASML) stands among the 13 unrivaled stocks of the next 10 years. ASML Holding N.V. (NASDAQ:ASML) retains confidence of Wall Street, where analysts remain bullish on the company’s critical role in the semiconductor manufacturing market. Overall, the stock boasts bullish ratings from 80% of the covering analysts. The consensus price target of […]",
+          "published": "2026-03-15 07:48"
+        },
+        {
+          "title": "Chinese EUV Push Versus ASML Breakthroughs What It Means For Investors",
+          "summary": "Chinese semiconductor firms and policymakers are ramping up efforts to build domestic EUV lithography tools to challenge ASML Holding's monopoly. These efforts are widely viewed as a long term project, with many experts not expecting credible competition to ASML's EUV leadership before 2030. At the same time, ASML has reported new advances in EUV light source power and throughput that increase the performance gap with potential rivals. ASML Holding (ENXTAM:ASML) sits at the center of the...",
+          "published": "2026-03-13 17:13"
+        },
+        {
+          "title": "ASML (ASML) Gained 55.8% in 2025",
+          "summary": "Emerald Wealth Partners, an independent asset and wealth management firm based in Zurich, released its Q4 2025 investor letter for the “Focused Equity Strategy.” A copy of the letter can be downloaded here. In 2025, the strategy returned +13.8% (gross) and 13.2% (net), and a 2.2% gain in the fourth quarter. The market achieved its […]",
+          "published": "2026-03-13 13:07"
         }
       ]
     }

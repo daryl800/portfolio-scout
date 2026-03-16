@@ -1,0 +1,397 @@
+{
+  "generated_at": "2026-03-15T23:04:13.443577Z",
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "shares": 19,
+      "avg_price": 276.61,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "core tech",
+      "metrics": {
+        "symbol": "AAPL",
+        "price": 250.1199951171875,
+        "momentum_1m": -0.09212342970167876,
+        "volume_ratio": 0.8916428684298986,
+        "macd_hist": -1.455731821937952,
+        "atr": 6.047857012067523,
+        "score": 10.15
+      },
+      "pnl_pct": -0.09576662045049894,
+      "pnl_value": -503.31009277343776
+    },
+    {
+      "symbol": "BND",
+      "shares": 34,
+      "avg_price": 74.51,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "bond ETF",
+      "metrics": {
+        "symbol": "BND",
+        "price": 73.55000305175781,
+        "momentum_1m": -0.01036055767260761,
+        "volume_ratio": 0.7675918977395515,
+        "macd_hist": -0.15055776589421616,
+        "atr": 0.272857666015625,
+        "score": 11.15
+      },
+      "pnl_pct": -0.01288413566289347,
+      "pnl_value": -32.63989624023455
+    },
+    {
+      "symbol": "SCHH",
+      "shares": 12,
+      "avg_price": 21.53,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "REIT ETF",
+      "metrics": {
+        "symbol": "SCHH",
+        "price": 22.239999771118164,
+        "momentum_1m": -0.009795161278817016,
+        "volume_ratio": 1.1509878551295003,
+        "macd_hist": -0.13606222765690934,
+        "atr": 0.33607142312186106,
+        "score": 16.92
+      },
+      "pnl_pct": 0.032977230428154335,
+      "pnl_value": 8.519997253417955
+    },
+    {
+      "symbol": "VOO",
+      "shares": 13,
+      "avg_price": 596.72,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "core market ETF",
+      "metrics": {
+        "symbol": "VOO",
+        "price": 609.0900268554688,
+        "momentum_1m": -0.04283798189096868,
+        "volume_ratio": 2.2157144140412615,
+        "macd_hist": -1.9716046659454074,
+        "atr": 9.32672119140625,
+        "score": 31.74
+      },
+      "pnl_pct": 0.02073003562050664,
+      "pnl_value": 160.8103491210934
+    },
+    {
+      "symbol": "QQQ",
+      "shares": 8,
+      "avg_price": 579.78,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "tech ETF",
+      "metrics": {
+        "symbol": "QQQ",
+        "price": 593.719970703125,
+        "momentum_1m": -0.03162567094274137,
+        "volume_ratio": 0.8722593757813901,
+        "macd_hist": -0.729765713489241,
+        "atr": 10.955705915178571,
+        "score": 11.98
+      },
+      "pnl_pct": 0.024043552214848784,
+      "pnl_value": 111.51976562500022
+    },
+    {
+      "symbol": "XLV",
+      "shares": 36,
+      "avg_price": 137.89,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "healthcare ETF",
+      "metrics": {
+        "symbol": "XLV",
+        "price": 149.7899932861328,
+        "momentum_1m": -0.04134404296875,
+        "volume_ratio": 0.9737899336795416,
+        "macd_hist": -0.8275961062663106,
+        "atr": 2.5000010899135043,
+        "score": 13.16
+      },
+      "pnl_pct": 0.08630062576062679,
+      "pnl_value": 428.39975830078174
+    },
+    {
+      "symbol": "VXUS",
+      "shares": 35,
+      "avg_price": 72.45,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "international ETF",
+      "metrics": {
+        "symbol": "VXUS",
+        "price": 76.73999786376953,
+        "momentum_1m": -0.07531028028533697,
+        "volume_ratio": 0.7385912929718581,
+        "macd_hist": -0.6638638467209326,
+        "atr": 1.6725006103515625,
+        "score": 8.44
+      },
+      "pnl_pct": 0.059213221032015574,
+      "pnl_value": 150.14992523193348
+    },
+    {
+      "symbol": "GOOGL",
+      "shares": 20,
+      "avg_price": 323.9,
+      "entry_date": "2025-11-01",
+      "currency": "USD",
+      "market": "US",
+      "notes": "core tech",
+      "metrics": {
+        "symbol": "GOOGL",
+        "price": 302.2799987792969,
+        "momentum_1m": -0.027913535227361164,
+        "volume_ratio": 0.7406404686793949,
+        "macd_hist": 0.30848454336745146,
+        "atr": 7.367503574916294,
+        "score": 12.6
+      },
+      "pnl_pct": -0.06674900037265546,
+      "pnl_value": -432.40002441406205
+    },
+    {
+      "symbol": "9988.HK",
+      "shares": 100,
+      "avg_price": 163.36,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "china internet",
+      "metrics": {
+        "symbol": "9988.HK",
+        "price": 132.5,
+        "momentum_1m": -0.1608612721868503,
+        "volume_ratio": 0.6428730818457957,
+        "macd_hist": -0.45954778801002405,
+        "atr": 5.028570992606027,
+        "score": 4.01
+      },
+      "pnl_pct": -0.18890793339862885,
+      "pnl_value": -3086.0000000000014
+    },
+    {
+      "symbol": "1810.HK",
+      "shares": 600,
+      "avg_price": 42.25,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "xiaomi",
+      "metrics": {
+        "symbol": "1810.HK",
+        "price": 33.31999969482422,
+        "momentum_1m": -0.053409120095662205,
+        "volume_ratio": 0.6007877542122514,
+        "macd_hist": 0.03017677166609334,
+        "atr": 1.1885722024100167,
+        "score": 7.38
+      },
+      "pnl_pct": -0.21136095396865753,
+      "pnl_value": -5358.000183105469
+    },
+    {
+      "symbol": "2600.HK",
+      "shares": 2000,
+      "avg_price": 11.57,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "shipping",
+      "metrics": {
+        "symbol": "2600.HK",
+        "price": 13.609999656677246,
+        "momentum_1m": 0.04934459340570621,
+        "volume_ratio": 0.9313632268011096,
+        "macd_hist": -0.0635312315083647,
+        "atr": 0.7585714885166713,
+        "score": 15.7
+      },
+      "pnl_pct": 0.17631803428498236,
+      "pnl_value": 4079.9993133544917
+    },
+    {
+      "symbol": "1347.HK",
+      "shares": 1000,
+      "avg_price": 74.04,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "semiconductor",
+      "metrics": {
+        "symbol": "1347.HK",
+        "price": 88.0,
+        "momentum_1m": -0.14146341463414633,
+        "volume_ratio": 1.595558256426787,
+        "macd_hist": -0.4791779564881704,
+        "atr": 5.8250002179827005,
+        "score": 18.98
+      },
+      "pnl_pct": 0.1885467314964883,
+      "pnl_value": 13959.999999999995
+    },
+    {
+      "symbol": "1635.HK",
+      "shares": 6000,
+      "avg_price": 4.08,
+      "entry_date": "2025-11-01",
+      "currency": "HKD",
+      "market": "HK",
+      "notes": "small cap",
+      "metrics": {
+        "symbol": "1635.HK",
+        "price": 3.7699999809265137,
+        "momentum_1m": 0.22801304980626355,
+        "volume_ratio": 0.43726609282828305,
+        "macd_hist": 0.03343795437354283,
+        "atr": 0.7414286136627197,
+        "score": 13.83
+      },
+      "pnl_pct": -0.07598039683173687,
+      "pnl_value": -1860.0001144409184
+    }
+  ],
+  "opportunities": [
+    {
+      "symbol": "MSFT",
+      "metrics": {
+        "symbol": "MSFT",
+        "price": 395.54998779296875,
+        "momentum_1m": -0.021811725475978226,
+        "volume_ratio": 0.7764500945491436,
+        "macd_hist": 2.1303727678765867,
+        "atr": 8.866426740373884,
+        "score": 27.93
+      },
+      "notes": null
+    },
+    {
+      "symbol": "NVDA",
+      "metrics": {
+        "symbol": "NVDA",
+        "price": 180.25,
+        "momentum_1m": -0.05156539276186647,
+        "volume_ratio": 0.8396245272923442,
+        "macd_hist": -0.33915043661776734,
+        "atr": 6.286427089146206,
+        "score": 10.79
+      },
+      "notes": null
+    },
+    {
+      "symbol": "TSLA",
+      "metrics": {
+        "symbol": "TSLA",
+        "price": 391.20001220703125,
+        "momentum_1m": -0.08655749353816436,
+        "volume_ratio": 1.0002110802147377,
+        "macd_hist": 0.14476597699818416,
+        "atr": 13.437140328543526,
+        "score": 13.13
+      },
+      "notes": null
+    },
+    {
+      "symbol": "PLTR",
+      "metrics": {
+        "symbol": "PLTR",
+        "price": 150.9499969482422,
+        "momentum_1m": 0.11254425926267476,
+        "volume_ratio": 0.7992772552780699,
+        "macd_hist": 2.272250357070463,
+        "atr": 6.5475665501185825,
+        "score": 34.11
+      },
+      "notes": null
+    },
+    {
+      "symbol": "AMZN",
+      "metrics": {
+        "symbol": "AMZN",
+        "price": 207.6699981689453,
+        "momentum_1m": 0.01759112262681457,
+        "volume_ratio": 0.7200502847653969,
+        "macd_hist": 0.8028673797695296,
+        "atr": 5.623571123395648,
+        "score": 17.84
+      },
+      "notes": null
+    },
+    {
+      "symbol": "META",
+      "metrics": {
+        "symbol": "META",
+        "price": 613.7100219726562,
+        "momentum_1m": -0.0822204313927478,
+        "volume_ratio": 1.5629715920433955,
+        "macd_hist": -2.741525914903589,
+        "atr": 18.464996337890625,
+        "score": 20.57
+      },
+      "notes": null
+    },
+    {
+      "symbol": "AMD",
+      "metrics": {
+        "symbol": "AMD",
+        "price": 193.38999938964844,
+        "momentum_1m": -0.09453133377804199,
+        "volume_ratio": 0.7781335860742873,
+        "macd_hist": 0.383596182611047,
+        "atr": 9.485712323869977,
+        "score": 11.43
+      },
+      "notes": null
+    },
+    {
+      "symbol": "AVGO",
+      "metrics": {
+        "symbol": "AVGO",
+        "price": 322.1600036621094,
+        "momentum_1m": -0.060100377863805204,
+        "volume_ratio": 1.312758623981252,
+        "macd_hist": 0.8784311420465738,
+        "atr": 14.522864205496651,
+        "score": 24.62
+      },
+      "notes": null
+    },
+    {
+      "symbol": "TSM",
+      "metrics": {
+        "symbol": "TSM",
+        "price": 338.30999755859375,
+        "momentum_1m": -0.0956454305903951,
+        "volume_ratio": 1.3720900525783732,
+        "macd_hist": -4.6639476173107415,
+        "atr": 13.559380667550224,
+        "score": 17.23
+      },
+      "notes": null
+    },
+    {
+      "symbol": "ASML",
+      "metrics": {
+        "symbol": "ASML",
+        "price": 1345.68994140625,
+        "momentum_1m": -0.06264849799089016,
+        "volume_ratio": 0.7895940090412192,
+        "macd_hist": -14.222943370733095,
+        "atr": 58.075020926339285,
+        "score": 9.65
+      },
+      "notes": null
+    }
+  ]
+}

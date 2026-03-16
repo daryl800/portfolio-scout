@@ -1,6 +1,11 @@
 ﻿rank,symbol,price,score,signal_bucket,why_flagged,momentum_1m_pct,volume_ratio,macd_hist,sentiment,action_label,confidence,short_term_view,long_term_view
-1,PLTR,150.95,34.11,Strong,1M momentum strong; volume below average; MACD positive,11.25,0.8,2.2723,積極,hold,0,Palantir深化與NVIDIA及多家企業的AI合作，擴展市場應用。,在政府及工業AI領域扮演關鍵角色，長期發展穩健。
-2,MSFT,395.55,27.93,Watch,1M momentum weak; volume below average; MACD positive,-2.18,0.78,2.1304,積極,hold,0,微軟推出Windows 11新平台更新，強化遊戲體驗與圖形性能。,微軟作為藍籌股，具備穩定獲利與AI成長潛力。
-3,AVGO,322.16,24.62,Watch,1M momentum weak; MACD positive,-6.01,1.31,0.8784,積極,hold,0,Broadcom推出先進光學晶片，獲得市場高度期待。,強勁的AI晶片銷售預測與分析師看好，長期成長穩健。
-4,META,613.71,20.57,Watch,1M momentum weak; volume above average; MACD negative,-8.22,1.56,-2.7415,消極,review,0,Meta面臨大規模裁員與AI技術表現不佳的挑戰。,需克服技術落後與組織調整風險，長期前景不明。
-5,AMZN,207.67,17.84,Watch,1M momentum positive; volume below average; MACD positive,1.76,0.72,0.8029,積極,hold,0,亞馬遜擴展數位健康與物流服務，提升營運效率。,多元業務布局與AI應用推動長期成長。
+1,PLTR,150.95,34.11,Strong,1M momentum strong; volume below average; MACD positive,11.25,0.8,2.2723,積極,hold,0,Palantir深化與Nvidia及多家企業合作，強化AI及國防應用。,Palantir在政府及工業AI平台具獨特地位，長期發展看好。
+2,MSFT,395.55,27.93,Watch,1M momentum weak; volume below average; MACD positive,-2.18,0.78,2.1304,積極,hold,0,微軟推出Windows 11新更新及AI強化圖形工具，提升遊戲體驗與效能。,作為AI領域重要玩家，微軟具長期成長潛力與穩健獲利能力。
+3,AVGO,322.16,24.62,Watch,1M momentum weak; MACD positive,-6.01,1.31,0.8784,積極,hold,0,Broadcom推出先進光學晶片，強化市場競爭力。,Broadcom與Meta合作AI晶片，具長期成長動能。
+4,META,613.71,20.57,Watch,1M momentum weak; volume above average; MACD negative,-8.22,1.56,-2.7415,消極,review,0,Meta考慮大規模裁員，反映公司面臨挑戰。,儘管AI投入持續，Meta需克服組織與市場壓力以維持成長。
+5,AMZN,207.67,17.84,Watch,1M momentum positive; volume below average; MACD positive,1.76,0.72,0.8029,積極,hold,0,亞馬遜擴展數位藥房服務，持續提升獲利能力。,亞馬遜在AI及電商領域持續領先，具長期成長潛力。
+6,TSM,338.31,17.23,Watch,1M momentum weak; MACD negative,-9.56,1.37,-4.6639,中性,hold,0,台積電AI瓶頸問題仍存在，但整體成長趨勢未破壞。,台積電為全球晶圓代工龍頭，長期成長穩健。
+7,TSLA,391.2,13.13,Watch,1M momentum weak; MACD positive,-8.66,1.0,0.1448,積極,hold,0,特斯拉與xAI合作推動AI系統，帶來多項成長催化劑。,特斯拉在電動車及AI領域持續擴展，具長期成長潛力。
+8,AMD,193.39,11.43,Watch,1M momentum weak; volume below average; MACD positive,-9.45,0.78,0.3836,積極,hold,0,AMD在AI加速器市場排名第二，獲得重大合約推動成長。,AMD有望挑戰Nvidia地位，長期成長潛力強勁。
+9,NVDA,180.25,10.79,Weak,1M momentum weak; MACD negative,-5.16,0.84,-0.3392,中性,watch,0,油價上漲及地緣政治風險帶來市場波動，Nvidia財報即將公布。,Nvidia為AI晶片龍頭，具長期成長動能，但短期股價波動較大。
+10,ASML,1345.69,9.65,Weak,1M momentum weak; volume below average; MACD negative,-6.26,0.79,-14.2229,積極,hold,0,ASML獲分析師看好，持續技術突破保持領先。,ASML在半導體光刻設備市場具壟斷地位，長期成長確定。
